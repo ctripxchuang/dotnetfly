@@ -44,7 +44,7 @@
 - [List的扩容机制，你真的明白吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483934&idx=1&sn=1e37bd686ba5b4e0e1a41a836258f126&chksm=a698715391eff845c79db6badfb45f63a926d5bfd0d450276661bd7e7cc67ffbdc81fe30fca9&token=1260076125&lang=zh_CN#rd)
 
 
--  更多： (#公众号)
+-  更多...
 
 
 每周至少原创 2 篇文章，首发在公众号；视频首发B站，你的支持和认可是我最大的动力！  
