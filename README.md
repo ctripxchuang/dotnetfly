@@ -92,5 +92,5 @@
 <a name="公众号"></a>
 
 
-![](https://images.cnblogs.com/cnblogs_com/huangxincheng/345039/o_200922093755weixin.jpg)
+![](https://huangxincheng.oss-cn-hangzhou.aliyuncs.com/img/12.png)
 
