@@ -95,5 +95,5 @@
 <a name="公众号"></a>
 
 
-![](https://huangxincheng.oss-cn-hangzhou.aliyuncs.com/img/12.png)
+![](https://i.loli.net/2020/09/23/fgLUVn3YSIDWQpK.png)
 
