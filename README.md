@@ -59,6 +59,45 @@
 -  更多...
 
 
+### 涉及到 SqlServer 的 文章
+
+
+- [Sql Server之旅——第一站 那些给我们带来福利的系统视图](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483840&idx=1&sn=d8f5f3e95903ed816362e180c8182566&chksm=a698728d91effb9b764cb6cbfaeab9f2903312c0076dc4edc3f4f52688d3ab74aca04c378022&scene=178#rd)
+
+
+- [Sql Server之旅——第二站 理解讨厌的表扫描](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483853&idx=1&sn=6c7ed042a163316f28837d871471bddf&chksm=a698728091effb96ac7c16e0c8b070c38fb38b3781e3147673877b5e74ca3d743c87796dc3d8&scene=178#rd)
+
+
+- [Sql Server之旅——第三站 解惑那些背了多年聚集索引的人](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483870&idx=1&sn=a5b10f6811390b5ee2c900d0aab7a7c0&chksm=a698729391effb85ff84b2d360f496355209c662c8e59859e7f5d0411910cd87e42c3ce13757&scene=178#rd)
+
+
+- [Sql Server之旅——第四站 你必须知道的非聚集索引扫描](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483881&idx=1&sn=4b8b21cf922d98f535474bee7abc16c9&chksm=a69872a491effbb27b873cf6eafc84833ff1914b0aee6d7d5ff2e4d45743a8a01d7c026dce8c&scene=178#rd)
+
+
+- [Sql Server之旅——第五站 使用winHex利器加深理解数据页](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483905&idx=1&sn=5667043995a753175bf9f6959316c074&chksm=a698714c91eff85a1602b1bd424b638e39fc7341cb3fd24216dde70058be473f3d074d09c651&scene=178#rd)
+
+
+- [ Sql Server之旅——第六站 为什么都说状态少的字段不能建索引](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483920&idx=1&sn=9dae8f1f26986401e1d66144c01e0e41&chksm=a698715d91eff84b588d990c8aa26a8250c7faa81b7393d821739d215601466bf88ff9b2c473&scene=178#rd)
+
+
+- [Sql Server之旅——第七站 复合索引和include索引到底有多大区别？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483976&idx=1&sn=f64dde98d0999de3320f14d02ce17958&chksm=a698710591eff813e8ed91d40d2c57fbe2737c6e7d6c5e7b464a5cde39c365f7d87226e16888&scene=178#rd)
+
+
+- [Sql Server之旅——第八站 看公司这些DBA们设计的这些复合索引](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483934&idx=1&sn=1e37bd686ba5b4e0e1a41a836258f126&chksm=a698715391eff845c79db6badfb45f63a926d5bfd0d450276661bd7e7cc67ffbdc81fe30fca9&token=1260076125&lang=zh_CN#rd)
+
+
+- [Sql Server之旅——第九站 看看DML操作对索引的影响](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484012&idx=1&sn=b9739cf51a1d7f1318cfaa32f5205ac9&chksm=a698712191eff83740196d9041f87f86becf11bcae1e7cfa8107f18f996dd23207cd11827194&scene=178#rd)
+
+
+- [Sql Server之旅——第十站 简单说说sqlserver的执行计划](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484040&idx=1&sn=a6be291a2f3ef7bb4d4fe5d9bef2ba77&chksm=a69871c591eff8d34cb92554592099cd38869be45a48986744689b877fb768ec407ee7faebfc&scene=178#rd)
+
+
+- [Sql Server之旅——第十一站 sqltext的参数化处理](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484059&idx=1&sn=ad791cfdb9caa08866bf84a1ee62aebd&chksm=a69871d691eff8c02cfe97b712de1c03d54045040484b9b1d71e254590ecd004c9ebffa0f3e6&scene=178#rd)
+
+
+-  更多...
+
+
 每周至少原创 2 篇文章，首发在公众号；视频首发B站，你的支持和认可是我最大的动力！  
 
 
