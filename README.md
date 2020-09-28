@@ -97,7 +97,7 @@
 -  更多...
 
 
-### 算法系列：
+### 涉及到 数据结构和算法 的 文章
 
 
 - [第一题 Bitmap算法](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484142&idx=1&sn=821d5640a48ece06cac437eb67a7b934&chksm=a69871a391eff8b5e120b6f588ef6baa2088f7d13ad1ea1de4bb2c48fdec01a569bfa78a5525&token=1260076125&lang=zh_CN#rd)  
@@ -112,17 +112,7 @@
 
 - [第六题 线段树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
 
-
 -  更多...
-
-
-每周至少原创 2 篇文章，首发在公众号；视频首发B站，你的支持和认可是我最大的动力！  
-
-
-欢迎扫码[【关注公众号】](#公众号)第一时间接收最新文章，每个月都会抽奖送书，希望对你有所帮助。
-
-
-公众号内回复「资源」获取优质电子书。
 
 
 ### 我的其他平台账号
@@ -137,6 +127,12 @@
 * 掘金   https://juejin.im/user/1380642337074718
 
 * 思否   https://segmentfault.com/u/huangxincheng
+
+
+每周至少原创 2 篇文章，首发在公众号；视频首发B站，你的支持和认可是我最大的动力！  
+
+
+欢迎扫码**公众号**第一时间接收最新文章，每个月都会抽奖送书，回复「资源」还赠送优质电子书，希望对你有所帮助。
 
 
 **微信搜索： 一线码农聊技术  或 dotnetfly**
