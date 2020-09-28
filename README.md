@@ -97,6 +97,25 @@
 -  更多...
 
 
+### 算法系列：
+
+
+- [第一题 Bitmap算法](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484142&idx=1&sn=821d5640a48ece06cac437eb67a7b934&chksm=a69871a391eff8b5e120b6f588ef6baa2088f7d13ad1ea1de4bb2c48fdec01a569bfa78a5525&token=1260076125&lang=zh_CN#rd)  
+
+- [第二题 优先队列](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484160&idx=1&sn=8d6c5385dd01cf2369ddba509e9a9854&chksm=a698704d91eff95b1f5d18e947b62afe21f933dc98e12b4a694dd8c87dbae5f643cc68c900d5&token=1260076125&lang=zh_CN#rd)  
+
+- [第三题 最长公共子序列](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484252&idx=1&sn=9981576e5bb4707b76f10378bb4e5c0b&chksm=a698701191eff907c367af791b37ed1f97113b789515fd1fe65caa5a9b7e5a5da9fb40057011&token=1260076125&lang=zh_CN#rd)
+
+- [第四题 字符串相似度](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484300&idx=2&sn=2649e94250e7f5bd6398ebf279cdd175&chksm=a69870c191eff9d73ed69cab84419f9254e7a64622e4ed476fe762bc1e7ab57678d13f24b6b2&token=1260076125&lang=zh_CN#rd)
+
+- [第五题 并查集](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484322&idx=1&sn=c5960599ce44a279ca8d16ee14298752&chksm=a69870ef91eff9f9d9d297888e576024d305e8013093e426205636f4af7e824235773801f5dd&token=1260076125&lang=zh_CN#rd) 
+
+- [第六题 线段树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
+
+
+-  更多...
+
+
 每周至少原创 2 篇文章，首发在公众号；视频首发B站，你的支持和认可是我最大的动力！  
 
 
@@ -118,25 +137,6 @@
 * 掘金   https://juejin.im/user/1380642337074718
 
 * 思否   https://segmentfault.com/u/huangxincheng
-
-
-### 算法系列：
-
-
-- [第一题 Bitmap算法](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484142&idx=1&sn=821d5640a48ece06cac437eb67a7b934&chksm=a69871a391eff8b5e120b6f588ef6baa2088f7d13ad1ea1de4bb2c48fdec01a569bfa78a5525&token=1260076125&lang=zh_CN#rd)  
-
-- [第二题 优先队列](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484160&idx=1&sn=8d6c5385dd01cf2369ddba509e9a9854&chksm=a698704d91eff95b1f5d18e947b62afe21f933dc98e12b4a694dd8c87dbae5f643cc68c900d5&token=1260076125&lang=zh_CN#rd)  
-
-- [第三题 最长公共子序列](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484252&idx=1&sn=9981576e5bb4707b76f10378bb4e5c0b&chksm=a698701191eff907c367af791b37ed1f97113b789515fd1fe65caa5a9b7e5a5da9fb40057011&token=1260076125&lang=zh_CN#rd)
-
-- [第四题 字符串相似度](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484300&idx=2&sn=2649e94250e7f5bd6398ebf279cdd175&chksm=a69870c191eff9d73ed69cab84419f9254e7a64622e4ed476fe762bc1e7ab57678d13f24b6b2&token=1260076125&lang=zh_CN#rd)
-
-- [第五题 并查集](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484322&idx=1&sn=c5960599ce44a279ca8d16ee14298752&chksm=a69870ef91eff9f9d9d297888e576024d305e8013093e426205636f4af7e824235773801f5dd&token=1260076125&lang=zh_CN#rd) 
-
-- [第六题 线段树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
-
-
-扫码关注，第一时间接收更多精彩文章:
 
 
 **微信搜索： 一线码农聊技术  或 dotnetfly**
