@@ -110,7 +110,20 @@
 
 - [第五题 并查集](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484322&idx=1&sn=c5960599ce44a279ca8d16ee14298752&chksm=a69870ef91eff9f9d9d297888e576024d305e8013093e426205636f4af7e824235773801f5dd&token=1260076125&lang=zh_CN#rd) 
 
-- [第六题 线段树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
+- [第六题 树状数组](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484364&idx=1&sn=86fbd1f9d72e27dda571dc194440792c&chksm=a698708191eff99765e61c126fe173852f9c80a66939f61a932feb41af8e8f8ad6afc370f60a&token=1742856040&lang=zh_CN#rd)   
+
+- [第七题 线段树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
+
+- [第八题 块状链表](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484425&idx=1&sn=6c1a00c3159642892333cc35900d78fa&chksm=a698774491effe52dd9a9c8fab8562ee7563f089ac89e8412d9e99290a9f886e6d558d0b22dd&token=1742856040&lang=zh_CN#rd)   
+
+- [第九题 鸡尾酒排序](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484697&idx=1&sn=c4bd5978c16e158a5ea381264a2d8ecb&chksm=a698765491efff42ccdc9e2a8b9705b6968aa1b495c72fc6c4e604bbb6c6a4e364333554ffc7&token=1742856040&lang=zh_CN#rd)   
+
+- [第十题 伸展树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247486010&idx=2&sn=1961b1e39198845871dcc7c4034b4621&chksm=a698797791eff0610fb45aeea59228c2b285167cb00ddd321bd86815fd8907773c173ef59b6c&token=1742856040&lang=zh_CN#rd)   
+
+- [第十一题 Treap树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247486503&idx=1&sn=219a416fc86381783b39ef2ee2d6afe0&chksm=a6987f6a91eff67c45d339e44e4b49e77c97c232c89cd408d066ce3d1cd272b1c6815a706a19&token=1742856040&lang=zh_CN#rd)   
+
+- [第十二题 Trie树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
+
 
 -  更多...
 
