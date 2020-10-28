@@ -122,7 +122,7 @@
 
 - [第十一题 Treap树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247486503&idx=1&sn=219a416fc86381783b39ef2ee2d6afe0&chksm=a6987f6a91eff67c45d339e44e4b49e77c97c232c89cd408d066ce3d1cd272b1c6815a706a19&token=1742856040&lang=zh_CN#rd)   
 
-- [第十二题 Trie树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484401&idx=1&sn=506fd8a11fbe26819bc30d4d355eb510&chksm=a69870bc91eff9aa6280f81bf774aebd66aa245cb7c19362d979e549cf98fccc20382178b0af&token=1260076125&lang=zh_CN#rd)   
+- [第十二题 Trie树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247486926&idx=1&sn=f6daafa28b2243d4ed7a66192c4c4dd8&chksm=a6987e8391eff795f6d26da1d3ce3384ea258cef27cd7dead07121040a05330c8bfd9d043f3f&token=1742856040&lang=zh_CN#rd)   
 
 
 -  更多...
