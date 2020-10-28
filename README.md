@@ -58,6 +58,21 @@
 -  更多...
 
 
+### 涉及到 实际开发经验分享 的文章
+
+
+- [自定义值类型一定不要忘了重写Equals，否则性能和空间双双堪忧](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484027&idx=1&sn=5af5f193b594ef57468d3cb2e423c1cc&chksm=a698713691eff820939fc493dd619f000858a90d7c911583e0af052a517307d236f9eccd847c&token=1742856040&lang=zh_CN#rd)
+
+
+
+### 涉及到 Mysql 的 文章
+
+
+- [MySql轻松入门系列——第一站 从源码角度轻松认识mysql整体框架图](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484048&idx=1&sn=d5b6bdaf312f3721ae5ebbd0ee98dc3a&chksm=a69871dd91eff8cb3071c5fb21fb1f155eda93eb3ba4ddabfd55e54264858f6dbd5308d3d0ca&token=1742856040&lang=zh_CN#rd)
+
+
+
+
 ### 涉及到 SqlServer 的 文章
 
 
