@@ -10,6 +10,9 @@
 ### 涉及到 Windbg 的文章
 
 
+- [被 C# 的 ThreadStatic 标记的静态变量，都存放在哪里了？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487742&idx=1&sn=6c77fc2e5318eac5c91690ca451e43bd&chksm=a69863b391efeaa56ac0e7cbc2b443a1b098f05593eafea14849f3bd0bba6ce5b835275f0506&token=250896018&lang=zh_CN#rd)
+
+
 - [对 精致码农大佬 说的 Task.Run 会存在 内存泄漏 的思考](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488049&idx=1&sn=0b0e500c99822f482a7300e44351237f&chksm=a698617c91efe86a78001c6d68d1b1dea064b094641e6d6200276d6f818a10d76f0df322f785&token=250896018&lang=zh_CN#rd)
 
 
