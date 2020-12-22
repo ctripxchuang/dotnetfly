@@ -13,6 +13,9 @@
 - [对 精致码农大佬 说的 Task.Run 会存在 内存泄漏 的思考](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488049&idx=1&sn=0b0e500c99822f482a7300e44351237f&chksm=a698617c91efe86a78001c6d68d1b1dea064b094641e6d6200276d6f818a10d76f0df322f785&token=250896018&lang=zh_CN#rd)
 
 
+- [linq 查询的结果会开辟新的内存吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487799&idx=1&sn=a5dd0a46913dd832a17fb5ad2131abcf&chksm=a698627a91efeb6c99ff5455c4ab96229d97011ebb76765e1d6e148a1ced54fe92e6cbe25596&token=250896018&lang=zh_CN#rd)
+
+
 - [C# Span 源码解读和应用实践](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487593&idx=1&sn=17a1244733c5f84ee7318b8de01ab919&chksm=a698632491efea32d731ccc51c84780bf1418778d5decbcb3d25f7eda5a1fe006088ea2db35f&token=1806526632&lang=zh_CN#rd)
 
 
