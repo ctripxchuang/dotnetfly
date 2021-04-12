@@ -86,7 +86,7 @@
 
 
 
--  <a href="#公众号">更多...</a>
+-  <a href="#公众号">更多...(关注我的订阅号)</a>
 
 
 
@@ -134,7 +134,7 @@
 - [Sql Server之旅——第十一站 sqltext的参数化处理](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484059&idx=1&sn=ad791cfdb9caa08866bf84a1ee62aebd&chksm=a69871d691eff8c02cfe97b712de1c03d54045040484b9b1d71e254590ecd004c9ebffa0f3e6&scene=178#rd)
 
 
--  <a href="#公众号">更多...</a>
+-  <a href="#公众号">更多...(关注我的订阅号)</a>
 
 
 ### 涉及到 数据结构和算法 的 文章
@@ -165,7 +165,7 @@
 - [第十二题 Trie树](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247486926&idx=1&sn=f6daafa28b2243d4ed7a66192c4c4dd8&chksm=a6987e8391eff795f6d26da1d3ce3384ea258cef27cd7dead07121040a05330c8bfd9d043f3f&token=1742856040&lang=zh_CN#rd)   
 
 
--  更多...
+-  <a href="#公众号">更多...(关注我的订阅号)</a>
 
 
 ### 我的其他平台账号
