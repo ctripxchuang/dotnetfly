@@ -9,6 +9,8 @@
 
 ### 涉及到 Windbg 的文章
 
+- [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=763414529&lang=zh_CN#rd)
+
 - [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
 
 - [如何从 dump 文件中提取出 C# 源代码？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489167&idx=1&sn=208edc764f9f88eaf3237d64946f3012&chksm=a69865c291efecd487a37dca0b7a38fafa0965a634893eaaa28c40f49b3827316d1dc4f280d6&token=763414529&lang=zh_CN#rd)
