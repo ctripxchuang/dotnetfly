@@ -86,9 +86,7 @@
 
 
 
-
-
--  更多...
+-  <a href="#公众号">更多...</a>
 
 
 
@@ -136,7 +134,7 @@
 - [Sql Server之旅——第十一站 sqltext的参数化处理](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484059&idx=1&sn=ad791cfdb9caa08866bf84a1ee62aebd&chksm=a69871d691eff8c02cfe97b712de1c03d54045040484b9b1d71e254590ecd004c9ebffa0f3e6&scene=178#rd)
 
 
--  更多...
+-  <a href="#公众号">更多...</a>
 
 
 ### 涉及到 数据结构和算法 的 文章
@@ -177,7 +175,7 @@
 
 * B站     https://space.bilibili.com/409524162
 
-* 知乎    https://www.zhihu.com/people/hxc-58
+* 知乎    https://www.zhihu.com/people/ixchuang
 
 * 掘金   https://juejin.im/user/1380642337074718
 
