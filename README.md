@@ -14,6 +14,8 @@
 
 - [又一起.NET程序挂死, 用 Windbg 抽丝剥茧式的真实案例分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489632&idx=1&sn=b7946a760062edf6cf0df82fa0503169&chksm=a6986b2d91efe23b79aa9061a2f54b61fa5141e330e810e4b576bf4fa92fc2ef78d712bec896&token=1961578048&lang=zh_CN#rd)
 
+- [再记一次 应用服务器 CPU 暴高事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488730&idx=1&sn=759c8b2bd1f01136a68b7659f926fa45&chksm=a698679791efee81392a6143f8f0f176d8c11fa399dd53eae164b215810d78d41fa5a7e45f3e&token=1961578048&lang=zh_CN#rd)
+
 
 - [茫茫内存，我该如何用 windbg 找到你 ？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489276&idx=1&sn=b5e15fb9c7b2fa7e74ed176a6e56502b&chksm=a69865b191efeca75b66287fd96c99b3a15334abbe7761c350adc4e8d4a8fcdd6ffbbc94b189&token=1961578048&lang=zh_CN#rd)
 
