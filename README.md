@@ -16,8 +16,20 @@
 
 - [再记一次 应用服务器 CPU 暴高事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488730&idx=1&sn=759c8b2bd1f01136a68b7659f926fa45&chksm=a698679791efee81392a6143f8f0f176d8c11fa399dd53eae164b215810d78d41fa5a7e45f3e&token=1961578048&lang=zh_CN#rd)
 
-
 - [茫茫内存，我该如何用 windbg 找到你 ？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489276&idx=1&sn=b5e15fb9c7b2fa7e74ed176a6e56502b&chksm=a69865b191efeca75b66287fd96c99b3a15334abbe7761c350adc4e8d4a8fcdd6ffbbc94b189&token=1961578048&lang=zh_CN#rd)
+
+- [用 Span 对 C# 进程中三大内存区域进行统一访问 ，太厉害了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=2&sn=c06dd9c7b4aac9c397c988ebffbfd497&chksm=a6987d3491eff42224de36fd9d3933993fa7334ff2e987af4744fe0124911e8ae30123d84b7d&token=1961578048&lang=zh_CN#rd)
+
+- [C#8.0之后接口已经不再单纯了，我懵逼了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487047&idx=2&sn=4e37be491ae28676e36a55c7d5451a5d&chksm=a6987d0a91eff41c8d4fe891548aabd8c3c4b680195b4048fee4f30e09c06c54b22e50ef4a69&token=1961578048&lang=zh_CN#rd)
+
+- [配置文件中的数据库连接串加密了，你以为我就挖不出来吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247485201&idx=1&sn=1ec4c336bf49f9cdceea14d2661f1d38&chksm=a698745c91effd4ad958c49e8def102fb5027a7139224d10c958a70f8ed69f1e4191a4f746e4&token=1961578048&lang=zh_CN#rd)
+
+
+- [HashSet扩容机制在时间和空间上的浪费，远大于你的想象](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484314&idx=1&sn=c827979c90a9b491b8f78b9f65f1d562&chksm=a69870d791eff9c164aeca6e9bfebaaaf414604d249198f03f3f3246da882a7fe62732b787c4&token=1961578048&lang=zh_CN#rd)
+
+- [用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
+
+- [用 Span 对 C# 进程中三大内存区域进行统一访问 ，太厉害了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=2&sn=c06dd9c7b4aac9c397c988ebffbfd497&chksm=a6987d3491eff42224de36fd9d3933993fa7334ff2e987af4744fe0124911e8ae30123d84b7d&token=1961578048&lang=zh_CN#rd)
 
 - [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=1961578048&lang=zh_CN#rd)
 
