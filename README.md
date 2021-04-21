@@ -18,7 +18,14 @@
 
 - [茫茫内存，我该如何用 windbg 找到你 ？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489276&idx=1&sn=b5e15fb9c7b2fa7e74ed176a6e56502b&chksm=a69865b191efeca75b66287fd96c99b3a15334abbe7761c350adc4e8d4a8fcdd6ffbbc94b189&token=1961578048&lang=zh_CN#rd)
 
+- [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=1961578048&lang=zh_CN#rd)
+
+- [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
+
+- [如何从 dump 文件中提取出 C# 源代码？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489167&idx=1&sn=208edc764f9f88eaf3237d64946f3012&chksm=a69865c291efecd487a37dca0b7a38fafa0965a634893eaaa28c40f49b3827316d1dc4f280d6&token=763414529&lang=zh_CN#rd)
+
 - [用 Span 对 C# 进程中三大内存区域进行统一访问 ，太厉害了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=2&sn=c06dd9c7b4aac9c397c988ebffbfd497&chksm=a6987d3491eff42224de36fd9d3933993fa7334ff2e987af4744fe0124911e8ae30123d84b7d&token=1961578048&lang=zh_CN#rd)
+
 
 - [C#8.0之后接口已经不再单纯了，我懵逼了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487047&idx=2&sn=4e37be491ae28676e36a55c7d5451a5d&chksm=a6987d0a91eff41c8d4fe891548aabd8c3c4b680195b4048fee4f30e09c06c54b22e50ef4a69&token=1961578048&lang=zh_CN#rd)
 
@@ -28,14 +35,6 @@
 - [HashSet扩容机制在时间和空间上的浪费，远大于你的想象](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484314&idx=1&sn=c827979c90a9b491b8f78b9f65f1d562&chksm=a69870d791eff9c164aeca6e9bfebaaaf414604d249198f03f3f3246da882a7fe62732b787c4&token=1961578048&lang=zh_CN#rd)
 
 - [用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
-
-- [用 Span 对 C# 进程中三大内存区域进行统一访问 ，太厉害了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=2&sn=c06dd9c7b4aac9c397c988ebffbfd497&chksm=a6987d3491eff42224de36fd9d3933993fa7334ff2e987af4744fe0124911e8ae30123d84b7d&token=1961578048&lang=zh_CN#rd)
-
-- [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=1961578048&lang=zh_CN#rd)
-
-- [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
-
-- [如何从 dump 文件中提取出 C# 源代码？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489167&idx=1&sn=208edc764f9f88eaf3237d64946f3012&chksm=a69865c291efecd487a37dca0b7a38fafa0965a634893eaaa28c40f49b3827316d1dc4f280d6&token=763414529&lang=zh_CN#rd)
 
 
 - [被 C# 的 ThreadStatic 标记的静态变量，都存放在哪里了？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487742&idx=1&sn=6c77fc2e5318eac5c91690ca451e43bd&chksm=a69863b391efeaa56ac0e7cbc2b443a1b098f05593eafea14849f3bd0bba6ce5b835275f0506&token=250896018&lang=zh_CN#rd)
