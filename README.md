@@ -181,9 +181,9 @@
 
 * 博客园   https://www.cnblogs.com/huangxincheng/
 
-* B站     https://space.bilibili.com/409524162
-
 * 知乎    https://www.zhihu.com/people/ixchuang
+
+* B站     https://space.bilibili.com/409524162
 
 * 掘金   https://juejin.im/user/1380642337074718
 
