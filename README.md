@@ -9,7 +9,15 @@
 
 ### 涉及到 Windbg 的文章
 
-- [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=763414529&lang=zh_CN#rd)
+
+- [记一次 .NET游戏站程序的 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489684&idx=1&sn=554f5194c3c83da43ca2fc81846aa260&chksm=a6986bd991efe2cfe9efc00a5ab1ff161e40994bfaac9b350a9c4d7bdfb8b3fed0fd14896a8c&token=1961578048&lang=zh_CN#rd)
+
+- [又一起.NET程序挂死, 用 Windbg 抽丝剥茧式的真实案例分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489632&idx=1&sn=b7946a760062edf6cf0df82fa0503169&chksm=a6986b2d91efe23b79aa9061a2f54b61fa5141e330e810e4b576bf4fa92fc2ef78d712bec896&token=1961578048&lang=zh_CN#rd)
+
+
+- [茫茫内存，我该如何用 windbg 找到你 ？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489276&idx=1&sn=b5e15fb9c7b2fa7e74ed176a6e56502b&chksm=a69865b191efeca75b66287fd96c99b3a15334abbe7761c350adc4e8d4a8fcdd6ffbbc94b189&token=1961578048&lang=zh_CN#rd)
+
+- [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=1961578048&lang=zh_CN#rd)
 
 - [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
 
