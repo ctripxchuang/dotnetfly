@@ -10,6 +10,8 @@
 ### 涉及到 Windbg 的文章
 
 
+- [记一次 .NET医院公众号程序 线程CPU双高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489751&idx=1&sn=8dc23fc83dd698887bc12bdae5eb5996&chksm=a6986b9a91efe28c69e3fadda0e878f8b047eb73b45bed188ff1b4036c5979d3631077b4ee23&token=430418757&lang=zh_CN#rd)
+
 - [记一次 .NET游戏站程序的 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489684&idx=1&sn=554f5194c3c83da43ca2fc81846aa260&chksm=a6986bd991efe2cfe9efc00a5ab1ff161e40994bfaac9b350a9c4d7bdfb8b3fed0fd14896a8c&token=1961578048&lang=zh_CN#rd)
 
 - [又一起.NET程序挂死, 用 Windbg 抽丝剥茧式的真实案例分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489632&idx=1&sn=b7946a760062edf6cf0df82fa0503169&chksm=a6986b2d91efe23b79aa9061a2f54b61fa5141e330e810e4b576bf4fa92fc2ef78d712bec896&token=1961578048&lang=zh_CN#rd)
@@ -58,7 +60,7 @@
 - [用了这么多年的泛型，你对它到底有多了解？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483746&idx=1&sn=1a9ae1e942d12ce0ae184ebaddd96a3a&chksm=a698722f91effb394d008529ab311e97ae94651e76d36a2c70ceaf020faace687d91e067a0f5&token=1260076125&lang=zh_CN#rd)
 
 
-- [阿里短信回执.net sdk的bug导致生产服务cpu 100%排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483934&idx=1&sn=1e37bd686ba5b4e0e1a41a836258f126&chksm=a698715391eff845c79db6badfb45f63a926d5bfd0d450276661bd7e7cc67ffbdc81fe30fca9&token=1260076125&lang=zh_CN#rd)
+- [阿里短信回执.net sdk的bug导致生产服务cpu 100%排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483948&idx=1&sn=eed8e82f25da46340846194000d869cc&chksm=a698716191eff877b980dce7531436ffad3dbb7541275a4e8f625551616206ecc62466c182e1&token=430418757&lang=zh_CN#rd)
 
 - [对精致码农大佬的 [理解 volatile 关键字] 文章结论的思考和寻找真相](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487203&idx=6&sn=928571ed608091597892e909e64db0e8&chksm=a6987dae91eff4b8ac3c8ebc55316ad24fbe0801e903832ac57e9251366655bd7870a5c6bba7&token=2136785246&lang=zh_CN#rd)
 
