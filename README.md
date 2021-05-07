@@ -9,6 +9,8 @@
 
 ### 涉及到 Windbg 的文章
 
+- [记一次 .NET 某教育系统 异常崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489829&idx=1&sn=34e6169a43eb5ecc42a51761a894b7a3&chksm=a6986a6891efe37ea1720c0065cf942749d5ed24b2896189ec48974a3d4f28c0736ebd53a377&token=2092322748&lang=zh_CN#rd)
+
 - [记一次 .NET医疗布草API程序 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489805&idx=1&sn=f3467d62ffd2909611255c0bd53cb469&chksm=a6986a4091efe356b1664013a1ffa614e1ae6cef8618b240adc97068ea6e6faf378f449e6494&token=1292573312&lang=zh_CN#rd)
 
 - [记一次 .NET WPF布草管理系统 挂死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489772&idx=1&sn=a7781ada0ca36f126dead62c5daa6d47&chksm=a6986ba191efe2b7f9afae6788d5b976e0e4c1941c8f8bd21efef5ee844c7ba6355777e93e26&token=1292573312&lang=zh_CN#rd)
