@@ -9,6 +9,8 @@
 
 ### 涉及到 Windbg 的文章
 
+- [记一次 .NET 医院CIS系统 内存溢出分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489873&idx=1&sn=91e2f6550adf263e51be407b413da4af&chksm=a6986a1c91efe30ac1501f8305fca75778063db703656883d0c6f8e34581f5c4f07bacb2c69f&token=164115488&lang=zh_CN#rd)
+
 - [记一次 .NET 某教育系统 异常崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489829&idx=1&sn=34e6169a43eb5ecc42a51761a894b7a3&chksm=a6986a6891efe37ea1720c0065cf942749d5ed24b2896189ec48974a3d4f28c0736ebd53a377&token=2092322748&lang=zh_CN#rd)
 
 - [记一次 .NET医疗布草API程序 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489805&idx=1&sn=f3467d62ffd2909611255c0bd53cb469&chksm=a6986a4091efe356b1664013a1ffa614e1ae6cef8618b240adc97068ea6e6faf378f449e6494&token=1292573312&lang=zh_CN#rd)
