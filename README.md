@@ -9,6 +9,10 @@
 
 ### 涉及到 Windbg 的文章
 
+- [记一次 .NET 某医院HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489931&idx=1&sn=4dc0b99b1abeb9eaa01ef8621a7a0c82&chksm=a6986ac691efe3d0332177fcf0ca382d2b24da0c80ba60e1166d754077cc6c62e3e8d99a111b&token=1711976643&lang=zh_CN#rd)
+
+- [一句 Task.Result 就死锁, 这代码还怎么写？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489891&idx=1&sn=f7ca7786a498c0a27bd58339a97111ee&chksm=a6986a2e91efe338f270a7929456f76c63e9c7c2afa181835759ed439c45b8a9926029f81686&token=1711976643&lang=zh_CN#rd)
+
 - [记一次 .NET 医院CIS系统 内存溢出分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489873&idx=1&sn=91e2f6550adf263e51be407b413da4af&chksm=a6986a1c91efe30ac1501f8305fca75778063db703656883d0c6f8e34581f5c4f07bacb2c69f&token=164115488&lang=zh_CN#rd)
 
 - [记一次 .NET 某教育系统 异常崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489829&idx=1&sn=34e6169a43eb5ecc42a51761a894b7a3&chksm=a6986a6891efe37ea1720c0065cf942749d5ed24b2896189ec48974a3d4f28c0736ebd53a377&token=2092322748&lang=zh_CN#rd)
