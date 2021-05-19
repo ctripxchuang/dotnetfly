@@ -9,6 +9,10 @@
 
 ### 涉及到 Windbg 的文章
 
+- [记一次 .NET 车联网云端服务 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489981&idx=1&sn=1445c1e6157542e6e1cc351481903d54&chksm=a6986af091efe3e6d493a8a966b8e18e3699c087e41359cd935d958208c12edfe4bbc2438466&token=749169776&lang=zh_CN#rd)
+
+- [记一次 .NET 某旅行社Web站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489952&idx=1&sn=d062734cdc37ee0b8b6eb8b7abcc792d&chksm=a6986aed91efe3fb009112dc19a2c8a844201fa632c1a7fd1cc900c819fd80544f30caecc755&token=749169776&lang=zh_CN#rd)
+
 - [记一次 .NET 某医院HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489931&idx=1&sn=4dc0b99b1abeb9eaa01ef8621a7a0c82&chksm=a6986ac691efe3d0332177fcf0ca382d2b24da0c80ba60e1166d754077cc6c62e3e8d99a111b&token=1711976643&lang=zh_CN#rd)
 
 - [一句 Task.Result 就死锁, 这代码还怎么写？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489891&idx=1&sn=f7ca7786a498c0a27bd58339a97111ee&chksm=a6986a2e91efe338f270a7929456f76c63e9c7c2afa181835759ed439c45b8a9926029f81686&token=1711976643&lang=zh_CN#rd)
