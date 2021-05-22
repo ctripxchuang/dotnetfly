@@ -9,6 +9,8 @@
 
 ### 涉及到 Windbg 的文章
 
+- [记一次 .NET 某HIS系统后端服务 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489999&idx=1&sn=5090587e668d6095f6d1f17424ae0f1c&chksm=a6986a8291efe3940973783639f6ee26f31bbab6c08fa54d2687d35df3e0c9233fbe2918fc29&token=95934485&lang=zh_CN#rd)
+
 - [记一次 .NET 车联网云端服务 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489981&idx=1&sn=1445c1e6157542e6e1cc351481903d54&chksm=a6986af091efe3e6d493a8a966b8e18e3699c087e41359cd935d958208c12edfe4bbc2438466&token=749169776&lang=zh_CN#rd)
 
 - [记一次 .NET 某旅行社Web站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489952&idx=1&sn=d062734cdc37ee0b8b6eb8b7abcc792d&chksm=a6986aed91efe3fb009112dc19a2c8a844201fa632c1a7fd1cc900c819fd80544f30caecc755&token=749169776&lang=zh_CN#rd)
