@@ -11,43 +11,41 @@
 ### 真实案例一览
 
 
-- [记一次 .NET 某HIS系统后端服务 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489999&idx=1&sn=5090587e668d6095f6d1f17424ae0f1c&chksm=a6986a8291efe3940973783639f6ee26f31bbab6c08fa54d2687d35df3e0c9233fbe2918fc29&token=95934485&lang=zh_CN#rd)【2021年5月21日 周五】
+- 【2021年5月21日 周五】[记一次 .NET 某HIS系统后端服务 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489999&idx=1&sn=5090587e668d6095f6d1f17424ae0f1c&chksm=a6986a8291efe3940973783639f6ee26f31bbab6c08fa54d2687d35df3e0c9233fbe2918fc29&token=95934485&lang=zh_CN#rd)
 
-- [记一次 .NET 车联网云端服务 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489981&idx=1&sn=1445c1e6157542e6e1cc351481903d54&chksm=a6986af091efe3e6d493a8a966b8e18e3699c087e41359cd935d958208c12edfe4bbc2438466&token=749169776&lang=zh_CN#rd)【2021年5月19日 周三】
+- 【2021年5月19日 周三】[记一次 .NET 车联网云端服务 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489981&idx=1&sn=1445c1e6157542e6e1cc351481903d54&chksm=a6986af091efe3e6d493a8a966b8e18e3699c087e41359cd935d958208c12edfe4bbc2438466&token=749169776&lang=zh_CN#rd)
 
-- [记一次 .NET 某旅行社Web站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489952&idx=1&sn=d062734cdc37ee0b8b6eb8b7abcc792d&chksm=a6986aed91efe3fb009112dc19a2c8a844201fa632c1a7fd1cc900c819fd80544f30caecc755&token=749169776&lang=zh_CN#rd)【2021年5月17日 周一】
+- 【2021年5月17日 周一】[记一次 .NET 某旅行社Web站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489952&idx=1&sn=d062734cdc37ee0b8b6eb8b7abcc792d&chksm=a6986aed91efe3fb009112dc19a2c8a844201fa632c1a7fd1cc900c819fd80544f30caecc755&token=749169776&lang=zh_CN#rd)
 
-- [记一次 .NET 某医院HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489931&idx=1&sn=4dc0b99b1abeb9eaa01ef8621a7a0c82&chksm=a6986ac691efe3d0332177fcf0ca382d2b24da0c80ba60e1166d754077cc6c62e3e8d99a111b&token=1711976643&lang=zh_CN#rd)【2021年5月14日 周五】
+- 【2021年5月14日 周五】[记一次 .NET 某医院HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489931&idx=1&sn=4dc0b99b1abeb9eaa01ef8621a7a0c82&chksm=a6986ac691efe3d0332177fcf0ca382d2b24da0c80ba60e1166d754077cc6c62e3e8d99a111b&token=1711976643&lang=zh_CN#rd)
 
-- [记一次 .NET 医院CIS系统 内存溢出分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489873&idx=1&sn=91e2f6550adf263e51be407b413da4af&chksm=a6986a1c91efe30ac1501f8305fca75778063db703656883d0c6f8e34581f5c4f07bacb2c69f&token=164115488&lang=zh_CN#rd)【2021年5月8日 周六】
+- 【2021年5月8日 周六】[记一次 .NET 医院CIS系统 内存溢出分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489873&idx=1&sn=91e2f6550adf263e51be407b413da4af&chksm=a6986a1c91efe30ac1501f8305fca75778063db703656883d0c6f8e34581f5c4f07bacb2c69f&token=164115488&lang=zh_CN#rd)
 
-- [记一次 .NET 某教育系统 异常崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489829&idx=1&sn=34e6169a43eb5ecc42a51761a894b7a3&chksm=a6986a6891efe37ea1720c0065cf942749d5ed24b2896189ec48974a3d4f28c0736ebd53a377&token=2092322748&lang=zh_CN#rd)【2021年5月3日 周一】
+- 【2021年5月3日 周一】[记一次 .NET 某教育系统 异常崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489829&idx=1&sn=34e6169a43eb5ecc42a51761a894b7a3&chksm=a6986a6891efe37ea1720c0065cf942749d5ed24b2896189ec48974a3d4f28c0736ebd53a377&token=2092322748&lang=zh_CN#rd)
 
-- [记一次 .NET医疗布草API程序 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489805&idx=1&sn=f3467d62ffd2909611255c0bd53cb469&chksm=a6986a4091efe356b1664013a1ffa614e1ae6cef8618b240adc97068ea6e6faf378f449e6494&token=1292573312&lang=zh_CN#rd)【2021年4月29日 周四】
+- 【2021年4月29日 周四】[记一次 .NET医疗布草API程序 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489805&idx=1&sn=f3467d62ffd2909611255c0bd53cb469&chksm=a6986a4091efe356b1664013a1ffa614e1ae6cef8618b240adc97068ea6e6faf378f449e6494&token=1292573312&lang=zh_CN#rd)
 
-- [记一次 .NET WPF布草管理系统 挂死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489772&idx=1&sn=a7781ada0ca36f126dead62c5daa6d47&chksm=a6986ba191efe2b7f9afae6788d5b976e0e4c1941c8f8bd21efef5ee844c7ba6355777e93e26&token=1292573312&lang=zh_CN#rd)【2021年4月27日 周二】
+- 【2021年4月27日 周二】[记一次 .NET WPF布草管理系统 挂死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489772&idx=1&sn=a7781ada0ca36f126dead62c5daa6d47&chksm=a6986ba191efe2b7f9afae6788d5b976e0e4c1941c8f8bd21efef5ee844c7ba6355777e93e26&token=1292573312&lang=zh_CN#rd)
 
-- [记一次 .NET医院公众号程序 线程CPU双高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489751&idx=1&sn=8dc23fc83dd698887bc12bdae5eb5996&chksm=a6986b9a91efe28c69e3fadda0e878f8b047eb73b45bed188ff1b4036c5979d3631077b4ee23&token=430418757&lang=zh_CN#rd)【2021年4月25日 周日】
+- 【2021年4月25日 周日】[记一次 .NET医院公众号程序 线程CPU双高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489751&idx=1&sn=8dc23fc83dd698887bc12bdae5eb5996&chksm=a6986b9a91efe28c69e3fadda0e878f8b047eb73b45bed188ff1b4036c5979d3631077b4ee23&token=430418757&lang=zh_CN#rd)
 
-- [记一次 .NET游戏站程序的 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489684&idx=1&sn=554f5194c3c83da43ca2fc81846aa260&chksm=a6986bd991efe2cfe9efc00a5ab1ff161e40994bfaac9b350a9c4d7bdfb8b3fed0fd14896a8c&token=1961578048&lang=zh_CN#rd)【2021年4月21日 周三】
+- 【2021年4月21日 周三】[记一次 .NET游戏站程序的 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489684&idx=1&sn=554f5194c3c83da43ca2fc81846aa260&chksm=a6986bd991efe2cfe9efc00a5ab1ff161e40994bfaac9b350a9c4d7bdfb8b3fed0fd14896a8c&token=1961578048&lang=zh_CN#rd)
 
-- [又一起.NET程序挂死, 用 Windbg 抽丝剥茧式的真实案例分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489632&idx=1&sn=b7946a760062edf6cf0df82fa0503169&chksm=a6986b2d91efe23b79aa9061a2f54b61fa5141e330e810e4b576bf4fa92fc2ef78d712bec896&token=1961578048&lang=zh_CN#rd)【2021年4月19日 周一】
+- 【2021年4月19日 周一】[又一起.NET程序挂死, 用 Windbg 抽丝剥茧式的真实案例分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489632&idx=1&sn=b7946a760062edf6cf0df82fa0503169&chksm=a6986b2d91efe23b79aa9061a2f54b61fa5141e330e810e4b576bf4fa92fc2ef78d712bec896&token=1961578048&lang=zh_CN#rd)
 
-- [再记一次 应用服务器 CPU 暴高事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488730&idx=1&sn=759c8b2bd1f01136a68b7659f926fa45&chksm=a698679791efee81392a6143f8f0f176d8c11fa399dd53eae164b215810d78d41fa5a7e45f3e&token=1961578048&lang=zh_CN#rd)【2021年2月8日 周一】
+- 【2021年2月8日 周一】[再记一次 应用服务器 CPU 暴高事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488730&idx=1&sn=759c8b2bd1f01136a68b7659f926fa45&chksm=a698679791efee81392a6143f8f0f176d8c11fa399dd53eae164b215810d78d41fa5a7e45f3e&token=1961578048&lang=zh_CN#rd)
 
-- [字符串太占内存了，我想了各种奇思淫巧对它进行压缩](http://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484069&idx=1&sn=9a0a2b700edc20294a5f280c39f8ad78&chksm=a69871e891eff8fe8ec369eab8fa480416ccce1cfe188ccb55409cdf42841dfa90281a16d816&token=1098575339&lang=zh_CN#rd)【2020年6月4日 周四】
+- 【2020年6月4日 周四】[字符串太占内存了，我想了各种奇思淫巧对它进行压缩](http://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484069&idx=1&sn=9a0a2b700edc20294a5f280c39f8ad78&chksm=a69871e891eff8fe8ec369eab8fa480416ccce1cfe188ccb55409cdf42841dfa90281a16d816&token=1098575339&lang=zh_CN#rd)
 
-- [阿里短信回执.net sdk的bug导致生产服务cpu 100%排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483948&idx=1&sn=eed8e82f25da46340846194000d869cc&chksm=a698716191eff877b980dce7531436ffad3dbb7541275a4e8f625551616206ecc62466c182e1&token=430418757&lang=zh_CN#rd)【2020年5月26日 周二】
+- 【2020年5月26日 周二】[阿里短信回执.net sdk的bug导致生产服务cpu 100%排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483948&idx=1&sn=eed8e82f25da46340846194000d869cc&chksm=a698716191eff877b980dce7531436ffad3dbb7541275a4e8f625551616206ecc62466c182e1&token=430418757&lang=zh_CN#rd)
 
-- [BitArray虽好，但请不要滥用，又一次线上内存暴增排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483895&idx=1&sn=9df99be01677a20288b7d18ded113977&chksm=a69872ba91effbac65df26f3f0fcd46c5bd9a9ebd5f1528c213cdf621099439ba98e76720094&token=1260076125&lang=zh_CN#rd)【2020年5月22日 周五】
+- 【2020年5月22日 周五】[BitArray虽好，但请不要滥用，又一次线上内存暴增排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483895&idx=1&sn=9df99be01677a20288b7d18ded113977&chksm=a69872ba91effbac65df26f3f0fcd46c5bd9a9ebd5f1528c213cdf621099439ba98e76720094&token=1260076125&lang=zh_CN#rd)
 
-- [记一次排查线上程序内存的忽高忽低，又是大集合惹祸了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483887&idx=1&sn=3bfea65a9ccd58df5813face404de5c9&chksm=a69872a291effbb40554a72df4d34084dbce76c58ac66bc8af21cd606d7ddb4c6a0e4da7d8e9&token=1260076125&lang=zh_CN#rd)【2020年5月20日 周三】
+- 【2020年5月20日 周三】[记一次排查线上程序内存的忽高忽低，又是大集合惹祸了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483887&idx=1&sn=3bfea65a9ccd58df5813face404de5c9&chksm=a69872a291effbb40554a72df4d34084dbce76c58ac66bc8af21cd606d7ddb4c6a0e4da7d8e9&token=1260076125&lang=zh_CN#rd)
 
-- [慎用ToLower和ToUpper，小心把你的系统给拖垮了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483784&idx=1&sn=3ee4a0b58eb85895f2b5951dedc36974&chksm=a69872c591effbd3062ba57c78994e519235896f607f2d8e5052f8787d7e2fa84bd8c12d565e&token=1260076125&lang=zh_CN#rd)【2020年5月4日 周一】
+- 【2020年5月4日 周一】[慎用ToLower和ToUpper，小心把你的系统给拖垮了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483784&idx=1&sn=3ee4a0b58eb85895f2b5951dedc36974&chksm=a69872c591effbd3062ba57c78994e519235896f607f2d8e5052f8787d7e2fa84bd8c12d565e&token=1260076125&lang=zh_CN#rd)
 
-- [用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)【2020年4月27日 周一】
-
-
+- 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
 
 
 ### Windbg调试解惑一览
