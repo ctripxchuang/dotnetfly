@@ -10,6 +10,9 @@
 
 ### 真实案例一览
 
+- 【2021年5月28日 周五】[记一次 .NET 某电商交易平台Web站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490153&idx=1&sn=8fcab265770b0daad9928f631e7d0dbf&chksm=a698692491efe03299075a17b950a5cf584be714aea7d73f3ffeb59b25252d97645504713042&token=796142711&lang=zh_CN#rd)
+
+- 【2021年5月24日 周一】[记一次 .NET 某外贸Web站 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490027&idx=1&sn=235bbe529ec0e1a3431122de64502921&chksm=a6986aa691efe3b0dbfa5f4ddb7e21cfad4c875fc958844696e4f480d847b82c5556a3fb27bc&token=796142711&lang=zh_CN#rd)
 
 - 【2021年5月21日 周五】[记一次 .NET 某HIS系统后端服务 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489999&idx=1&sn=5090587e668d6095f6d1f17424ae0f1c&chksm=a6986a8291efe3940973783639f6ee26f31bbab6c08fa54d2687d35df3e0c9233fbe2918fc29&token=95934485&lang=zh_CN#rd)
 
@@ -51,12 +54,13 @@
 ### Windbg调试解惑一览
 
 
-
 - [教你配置windows上的windbg,linux上的lldb，打入clr内部这一篇就够了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483792&idx=1&sn=b2984c421787efa352678fcf9b50490f&chksm=a69872dd91effbcbedd264f1a59c1671f068b40303e7a190a52b7407196fe3b8bb3e533b9d05&token=1260076125&lang=zh_CN#rd)
 
 - [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
 
 - [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=1961578048&lang=zh_CN#rd)
+
+- [.NET程序崩溃了怎么抓 Dump ? 我总结了三种方案](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490052&idx=1&sn=a4f948f0267698e42f7c5289383fa49d&chksm=a698694991efe05f6daac0f0c4f0bc30b1a3052d2de459ffdf8cc1e828d3df17d5ac746139dd&token=796142711&lang=zh_CN#rd)
 
 - [如何从 dump 文件中提取出 C# 源代码？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489167&idx=1&sn=208edc764f9f88eaf3237d64946f3012&chksm=a69865c291efecd487a37dca0b7a38fafa0965a634893eaaa28c40f49b3827316d1dc4f280d6&token=763414529&lang=zh_CN#rd)
 
