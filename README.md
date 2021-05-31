@@ -10,6 +10,8 @@
 
 ### 真实案例一览
 
+- 【2021年5月31日 周一】[记一次 .NET 某三甲医院HIS系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490175&idx=1&sn=6db917cd912e5585364aff57c9f4ceea&chksm=a698693291efe02474bbd52ce004c58d77cfda14663afb7ee00d490359c90df02d6fc46b5b5b&token=1861625626&lang=zh_CN#rd)
+
 - 【2021年5月28日 周五】[记一次 .NET 某电商交易平台Web站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490153&idx=1&sn=8fcab265770b0daad9928f631e7d0dbf&chksm=a698692491efe03299075a17b950a5cf584be714aea7d73f3ffeb59b25252d97645504713042&token=796142711&lang=zh_CN#rd)
 
 - 【2021年5月24日 周一】[记一次 .NET 某外贸Web站 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490027&idx=1&sn=235bbe529ec0e1a3431122de64502921&chksm=a6986aa691efe3b0dbfa5f4ddb7e21cfad4c875fc958844696e4f480d847b82c5556a3fb27bc&token=796142711&lang=zh_CN#rd)
