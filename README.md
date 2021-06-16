@@ -12,7 +12,7 @@
 
 为了圈子的纯粹度，一定要过滤掉`观光客`和`灌水客`，免费的圈子很难运营下去，毕竟调试真的是一场苦行之旅，没有真正的毅力和兴趣很难走下去，也没有随随便便的成功！好酒也怕巷子深，现年费：原价：**~~368元~~**，现价：**168**， 再送大家一张 **39元** 优惠券，你觉得值那就值。
 
-![](https://huangxincheng.oss-cn-hangzhou.aliyuncs.com/img/qiu.jpg)
+![](https://huangxincheng.oss-cn-hangzhou.aliyuncs.com/img/%E6%B5%B7%E6%8A%A5.png)
 
 
 **dump不停，系列不止💪💪💪 ，感谢大家持续关注！**
