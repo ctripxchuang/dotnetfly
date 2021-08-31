@@ -17,6 +17,8 @@
 
 ### 真实案例一览
 
+- 【2021年8月30日 周一】[记一次 .NET 某流媒体独角兽 API 句柄泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490781&idx=1&sn=1c406cf01674635081de6eb46f2da6cf&chksm=a6986f9091efe6864a9af05ea293272f9d42587fb1863ce9e76286e885812f9b403c41126aa8&token=1740393079&lang=zh_CN#rd)
+
 - 【2021年8月13日 周五】[记一次 .NET 某WMS仓储打单系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490712&idx=1&sn=a5aeda6ea8f104797ab5899b76a922c5&chksm=a6986fd591efe6c321fc12ac259b19aa06352893be3cefd9671b3923712ac1418b1d0738fc68&token=1696634563&lang=zh_CN#rd)
 
 - 【2021年8月9日 周一】[记一次 .NET 某智慧水厂API 非托管内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490660&idx=1&sn=bda79f4f875255390a01f6e2fa978241&chksm=a6986f2991efe63fd144a0c7e4bc4bb6a9a4caa418f5cbbbf378ac47a2d18fbb1dca96ab140f&token=1645169107&lang=zh_CN#rd)
