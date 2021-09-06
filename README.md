@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年9月6日 周一】[记一次 .NET 某机械臂智能机器人控制系统MRS CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490844&idx=1&sn=edabd1c23f1415cf02cf9de8112911f3&chksm=a6986e5191efe74756f481aa0cda04db8aa28f493e9831b5abfa39d5c8a884fe3bf064b6a3e8&token=331306558&lang=zh_CN#rd)
+
 - 【2021年8月30日 周一】[记一次 .NET 某流媒体独角兽 API 句柄泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490781&idx=1&sn=1c406cf01674635081de6eb46f2da6cf&chksm=a6986f9091efe6864a9af05ea293272f9d42587fb1863ce9e76286e885812f9b403c41126aa8&token=1740393079&lang=zh_CN#rd)
 
 - 【2021年8月13日 周五】[记一次 .NET 某WMS仓储打单系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490712&idx=1&sn=a5aeda6ea8f104797ab5899b76a922c5&chksm=a6986fd591efe6c321fc12ac259b19aa06352893be3cefd9671b3923712ac1418b1d0738fc68&token=1696634563&lang=zh_CN#rd)
