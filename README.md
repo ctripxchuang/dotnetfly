@@ -2,6 +2,9 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年9月13日 周一】[记一次 .NET 某桌面奇侠游戏 非托管内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490920&idx=1&sn=a9576a41dd750c95b51ff93c4b570df6&chksm=a6986e2591efe73370a20cfe98f0194f35188d36be67859e6caffeb34ab9675c0b59d0f49d83&token=856751850&lang=zh_CN#rd)
+
+
 - 【2021年9月9日 周四】[记一次 .NET 某新能源汽车锂电池检测程序 UI挂死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490893&idx=1&sn=9aad7d69cd643c492c9bf6b4c81df7ed&chksm=a6986e0091efe71687d5961c8b2875273c8bc54caac12268390d1106beb283565d9e9f8897ee&token=4079707&lang=zh_CN#rd)
 
 
