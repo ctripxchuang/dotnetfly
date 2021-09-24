@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年9月24日 周五】[记一次 .NET 某上市工业智造 CPU+内存+挂死 三高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490989&idx=1&sn=f3c3ed64d2295e214d1928481e691d85&chksm=a6986ee091efe7f63ac2fd28962601f8281a8a130162bad833d9dba94066cf84d3b28e087d8e&token=701691187&lang=zh_CN#rd)
+
 - 【2021年9月13日 周一】[记一次 .NET 某桌面奇侠游戏 非托管内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490920&idx=1&sn=a9576a41dd750c95b51ff93c4b570df6&chksm=a6986e2591efe73370a20cfe98f0194f35188d36be67859e6caffeb34ab9675c0b59d0f49d83&token=856751850&lang=zh_CN#rd)
 
 
