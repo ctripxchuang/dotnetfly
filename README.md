@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年10月9日 周六】[记一次 .NET 某电商定向爬虫 内存碎片化分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491148&idx=1&sn=835dce07d7d893187cbb510a944311b5&chksm=a6986d0191efe4175a9525ef843d55375370f53484beded023762d413be62505960a289b7e8c&token=318087617&lang=zh_CN#rd)
+
 - 【2021年9月29日 周三】[记一次 .NET 某纺织工厂 MES系统 API 挂死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491055&idx=1&sn=9c7eebd936e44cd017cb30129289a591&chksm=a6986ea291efe7b431903c9485129a7e8820a17f6d854e8d62002283b3f63886f5ce9b3fd01e&token=626411257&lang=zh_CN#rd)
 
 - 【2021年9月24日 周五】[记一次 .NET 某上市工业智造 CPU+内存+挂死 三高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490989&idx=1&sn=f3c3ed64d2295e214d1928481e691d85&chksm=a6986ee091efe7f63ac2fd28962601f8281a8a130162bad833d9dba94066cf84d3b28e087d8e&token=701691187&lang=zh_CN#rd)
@@ -63,6 +65,36 @@
 - 【2020年5月4日 周一】[慎用ToLower和ToUpper，小心把你的系统给拖垮了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483784&idx=1&sn=3ee4a0b58eb85895f2b5951dedc36974&chksm=a69872c591effbd3062ba57c78994e519235896f607f2d8e5052f8787d7e2fa84bd8c12d565e&token=1260076125&lang=zh_CN#rd)
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
+
+
+### 我想说的话
+
+
+.NET 发展至今已20多年，再回首时您是否发现所光顾的文章绝大多数都是在`编译器`之上聊 C# 各种特性和用法，很少看到有文章会沉到`编译器`之下来解读 C#，在国内真的很缺少这种深度文章，更没有为此话题聚焦的技术深度社区。
+
+
+既然国内没人做，那我就来试一试，为此我打造了一个以 `内存泄漏，CPU爆高，死锁挂死` 为主题的 .NET 高级调试圈，目前圈子已聚集近 130+ 位资深工程师和架构师，毕竟能轻松搞定这些诡异又非常紧急的生产事故，对老板来说您绝对是压舱石，对团队来说您绝对是技术领袖。
+
+
+独乐乐不如众乐乐，希望这个圈子能够不断的迭代壮大，孵化出一批`.NET高级调试`的技术高手，让原来需要数周才能解决的 内存泄漏，CPU爆高 问题缩短到分钟级。
+
+
+为了圈子的纯粹度，一定要过滤掉`观光客`和`灌水客`，免费的圈子很难运营下去，毕竟调试真的是一场苦行之旅，没有真正的毅力和兴趣很难走下去，也没有随随便便的成功！好酒也怕巷子深。
+
+
+现年费：
+
+
+## 原价：**~~368元~~**
+
+
+## 现价：**168元**
+
+
+#### 再送大家一张 **19元** 优惠券，你觉得值那就值。
+
+
+![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/dadsfasdfasdfasdf.png)
 
 
 ### Windbg调试解惑一览
