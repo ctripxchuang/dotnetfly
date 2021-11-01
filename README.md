@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年10月27日 周三】[记一次 .NET 某资讯论坛 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491376&idx=1&sn=8ce625461deac452acf8a911a431ef28&chksm=a6986c7d91efe56bec04d68adb68e9ac88a3998ddd513698c52262bdcbc6f5398e2381ecaf00&token=1108194387&lang=zh_CN#rd)
+
 - 【2021年10月15日 周五】[记一次 .NET 某招聘网后端服务 内存暴涨分析](https://www.cnblogs.com/huangxincheng/p/15409807.html)
 
 - 【2021年10月9日 周六】[记一次 .NET 某电商定向爬虫 内存碎片化分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491148&idx=1&sn=835dce07d7d893187cbb510a944311b5&chksm=a6986d0191efe4175a9525ef843d55375370f53484beded023762d413be62505960a289b7e8c&token=318087617&lang=zh_CN#rd)
