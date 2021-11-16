@@ -2,6 +2,11 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年11月12日 周五】[记一次 .NET 某公交卡扣费系统 程序卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491505&idx=1&sn=6d75401dd43d17b551fb9c09b6edcb67&chksm=a6986cfc91efe5ea0d0e9b3abab1aab0b818a8f588f91c3bff83454a2235309bfbd89676e27b&token=1357329497&lang=zh_CN#rd)
+
+
+- 【2021年11月2日 周二】[记一次 .NET 某风控管理系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491428&idx=1&sn=21161f665bd6b22ce0263b90590df0a8&chksm=a6986c2991efe53fa8f8547fd9f26738387b5b65bcc2e79adda09db00280b52423947c94558c&token=1357329497&lang=zh_CN#rd)
+
 - 【2021年10月27日 周三】[记一次 .NET 某资讯论坛 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491376&idx=1&sn=8ce625461deac452acf8a911a431ef28&chksm=a6986c7d91efe56bec04d68adb68e9ac88a3998ddd513698c52262bdcbc6f5398e2381ecaf00&token=1108194387&lang=zh_CN#rd)
 
 - 【2021年10月15日 周五】[记一次 .NET 某招聘网后端服务 内存暴涨分析](https://www.cnblogs.com/huangxincheng/p/15409807.html)
