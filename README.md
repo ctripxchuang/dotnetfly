@@ -2,6 +2,9 @@
 
 ### 企业级血泪案例一览
 
+
+- 【2021年11月29日 周一】[记一次 .NET 某智能服装智造系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491658&idx=1&sn=03639738a6b2e080fec387eb1c3b9354&chksm=a69b930791ec1a11581040ba632c142222411ddd69fcbeb8fc15e276f73f48d47abb6cf2ef8f&token=2075479135&lang=zh_CN#rd)
+
 - 【2021年11月12日 周五】[记一次 .NET 某公交卡扣费系统 程序卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491505&idx=1&sn=6d75401dd43d17b551fb9c09b6edcb67&chksm=a6986cfc91efe5ea0d0e9b3abab1aab0b818a8f588f91c3bff83454a2235309bfbd89676e27b&token=1357329497&lang=zh_CN#rd)
 
 
