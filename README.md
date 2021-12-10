@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2021年12月06日 周一】[记一次 .NET 某化妆品 webapi 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491695&idx=1&sn=662b4c87396e026cce2e5ed64d82cdc8&chksm=a69b932291ec1a3456679b4605907d7d29bccf01bbe7affea589027540c7153c7319fc7e7feb&token=1161077798&lang=zh_CN#rd)
+
 - 【2021年11月29日 周一】[记一次 .NET 某智能服装智造系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491658&idx=1&sn=03639738a6b2e080fec387eb1c3b9354&chksm=a69b930791ec1a11581040ba632c142222411ddd69fcbeb8fc15e276f73f48d47abb6cf2ef8f&token=2075479135&lang=zh_CN#rd)
 
 - 【2021年11月18日 周四】[记一次 .NET 某电商无货源后端服务 死锁分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491597&idx=1&sn=77343bbd5004ca54e699af0d69e3e19f&chksm=a69b934091ec1a56ca732de3b83db703d3415c6c1ca4af79f3dce0e195267e6975636c79001f&token=2075479135&lang=zh_CN#rd)
