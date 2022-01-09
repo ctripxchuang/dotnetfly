@@ -87,14 +87,14 @@
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
 
-### 我的多线程
+### 我的 [.NET5 多线程视频课] -> 限时优惠啦
 
 本视频用25集讲述了Thread,Task,并行,异步,锁等五大经典专题，借助windbg，ILSpy,DnSpy等工具以及CoreCLR源码来帮助大家深入分析底层运作原理，异步编程是本套视频的重中之重，最后作者以50+dump的真实案例经验帮大家总结各种CPU爆高的真正原因！
 
 ![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/20220109100013.png)
 
 
-**限时优惠：139，微信扫码**
+**购买渠道：微信扫码**
 
 ![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/weappCode%20(2).jpg)
 
