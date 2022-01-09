@@ -2,6 +2,12 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年01月07日 周一】[记一次 .NET 某工厂MES系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491969&idx=1&sn=48c5410d61abd78050a0e4bb924402c9&chksm=a69b92cc91ec1bda7e3a2937da9deb6f1ad5396f9d7bf4293cd1c6920aa92fd931b5c4742334&token=52903087&lang=zh_CN#rd)
+
+- 【2021年12月19日 周日】[记一次 .NET 某市附属医院 Web程序 偶发性CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491882&idx=1&sn=9ddb3ea9ffc04fca67830939a5bd2b51&chksm=a69b926791ec1b71cff65073775ccfd625edb905e86370adc02f0a95f0fafc73c27782c5828f&token=52903087&lang=zh_CN#rd)
+
+- 【2021年12月10日 周五】[记一次 .NET 某妇产医院 WPF内存溢出分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491739&idx=1&sn=8b58ef8b105bf9cb16215cbf3f625a65&chksm=a69b93d691ec1ac0733a4622e082ca233f724dd877e042fbd813befa38141e9dc1c86b3831c0&token=52903087&lang=zh_CN#rd)
+
 - 【2021年12月06日 周一】[记一次 .NET 某化妆品 webapi 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491695&idx=1&sn=662b4c87396e026cce2e5ed64d82cdc8&chksm=a69b932291ec1a3456679b4605907d7d29bccf01bbe7affea589027540c7153c7319fc7e7feb&token=1161077798&lang=zh_CN#rd)
 
 - 【2021年11月29日 周一】[记一次 .NET 某智能服装智造系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491658&idx=1&sn=03639738a6b2e080fec387eb1c3b9354&chksm=a69b930791ec1a11581040ba632c142222411ddd69fcbeb8fc15e276f73f48d47abb6cf2ef8f&token=2075479135&lang=zh_CN#rd)
@@ -81,8 +87,19 @@
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
 
+### 我的多线程
 
-### 我想说的话
+本视频用25集讲述了Thread,Task,并行,异步,锁等五大经典专题，借助windbg，ILSpy,DnSpy等工具以及CoreCLR源码来帮助大家深入分析底层运作原理，异步编程是本套视频的重中之重，最后作者以50+dump的真实案例经验帮大家总结各种CPU爆高的真正原因！
+
+![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/20220109100013.png)
+
+
+**限时优惠：139，微信扫码**
+
+![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/weappCode%20(2).jpg)
+
+
+### 我的知识星球
 
 
 .NET 发展至今已20多年，再回首时您是否发现所光顾的文章绝大多数都是在`编译器`之上聊 C# 各种特性和用法，很少看到有文章会沉到`编译器`之下来解读 C#，在国内真的很缺少这种深度文章，更没有为此话题聚焦的技术深度社区。
@@ -101,7 +118,6 @@
 
 
 ## 原价：**~~368元~~**
-
 
 ## 现价：**168元**
 
