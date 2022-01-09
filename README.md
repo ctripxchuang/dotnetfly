@@ -96,7 +96,7 @@
 
 **购买渠道：微信扫码**
 
-![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/weappCode%20(2).jpg)
+![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/746cf20072d24f1b90bd745e6ff2772.png)
 
 
 ### 我的知识星球
