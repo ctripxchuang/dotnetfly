@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年01月17日 周一】[记一次 .NET 某药品仓储管理系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247492045&idx=1&sn=a6e5960d061cc277388f72ff7e57d759&chksm=a69b928091ec1b96db83a2c6af91826a0da298b906f28cc14d6d12dd76819984ce6115b90df1&token=1698427802&lang=zh_CN#rd)
+
+- 【2022年01月10日 周一】[记一次 .NET 某消防物联网 后台服务 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491998&idx=1&sn=bf0fc3ce15cf7f407d1c87d5607da35c&chksm=a69b92d391ec1bc52c66b8baa7ae67407291b5fb8afb3f81b39e7d40049563d5a2af03a4de40&token=1698427802&lang=zh_CN#rd)
+
 - 【2022年01月07日 周一】[记一次 .NET 某工厂MES系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491969&idx=1&sn=48c5410d61abd78050a0e4bb924402c9&chksm=a69b92cc91ec1bda7e3a2937da9deb6f1ad5396f9d7bf4293cd1c6920aa92fd931b5c4742334&token=52903087&lang=zh_CN#rd)
 
 - 【2021年12月19日 周日】[记一次 .NET 某市附属医院 Web程序 偶发性CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247491882&idx=1&sn=9ddb3ea9ffc04fca67830939a5bd2b51&chksm=a69b926791ec1b71cff65073775ccfd625edb905e86370adc02f0a95f0fafc73c27782c5828f&token=52903087&lang=zh_CN#rd)
