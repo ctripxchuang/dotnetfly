@@ -100,7 +100,7 @@
 
 **购买渠道：微信扫码**
 
-![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/746cf20072d24f1b90bd745e6ff2772.png)
+![](https://hxc-test.oss-cn-hangzhou.aliyuncs.com/PYZ/20220223091435.png)
 
 
 ### 我的知识星球
