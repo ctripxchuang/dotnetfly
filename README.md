@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年02月23日 周三】[记一次 .NET 某供应链WEB网站 CPU 爆高事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247492221&idx=1&sn=e767070006e14cffe4dc022d65974a17&chksm=a69b913091ec1826815feda43c287b34ca516917b1d7fb04389cd2425f705e763b49ac08a447&token=1276705684&lang=zh_CN#rd)
+
 - 【2022年01月28日 周五】[记一次 .NET 某智能交通后台服务 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247492128&idx=1&sn=008985bf9cbc5f98cc5e4c96c714b91f&chksm=a69b916d91ec187bd6454d4407db30fbda290f09eab09b539e78ae2488a9e00bf71a8d9692ef&token=2105007191&lang=zh_CN#rd)
 
 - 【2022年01月17日 周一】[记一次 .NET 某药品仓储管理系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247492045&idx=1&sn=a6e5960d061cc277388f72ff7e57d759&chksm=a69b928091ec1b96db83a2c6af91826a0da298b906f28cc14d6d12dd76819984ce6115b90df1&token=1698427802&lang=zh_CN#rd)
