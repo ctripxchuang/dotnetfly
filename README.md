@@ -2,7 +2,7 @@
 
 ### 企业级血泪案例一览
 
-- 【2022年07月04日 周一】[记一次 .NET 某工控数据采集平台线程数 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247493597&idx=1&sn=476060dfb965768a9a993dca4ff4d273&chksm=a69b949091ec1d865ecb3880453cc3f4e98a92be9a01d64018d87fd4fce4d361284e303eb7b9&token=187311539&lang=zh_CN#rd)
+- 【2022年07月04日 周一】[记一次 .NET 某工控数据采集平台 线程数 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247493597&idx=1&sn=476060dfb965768a9a993dca4ff4d273&chksm=a69b949091ec1d865ecb3880453cc3f4e98a92be9a01d64018d87fd4fce4d361284e303eb7b9&token=187311539&lang=zh_CN#rd)
 
 - 【2022年07月01日 周五】[记一次 .NET 差旅管理后台 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247493569&idx=1&sn=e6d0ed19e722d9065c388e53b777edc4&chksm=a69b948c91ec1d9a9ec50d400a0298553475c214c5a14490b206fa6fbd447a8a250f4501b044&token=528427649&lang=zh_CN#rd)
 
