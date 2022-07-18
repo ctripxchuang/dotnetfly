@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年07月12日 周二】[记一次 .NET 某电厂Web系统 内存泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247493857&idx=1&sn=ce4083f2a86099669f79bedcf19dbc6a&chksm=a69b9bac91ec12ba6d8a5e3c47e9c5b55d5ae0e30b4524752a98301e973dd79d72414ac0e1fc&token=833745486&lang=zh_CN#rd)
+
 - 【2022年07月07日 周四】[记一次 .NET 某新能源系统 线程疯涨 分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247493702&idx=1&sn=24cbc78788c08c144b0824566d3fab69&chksm=a69b9b0b91ec121d11a6db5e523ce882e26abb8c3f52449cee7c914af84e759edec76f398d33&token=1280684882&lang=zh_CN#rd)
 
 - 【2022年07月04日 周一】[记一次 .NET 某工控数据采集平台 线程数 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247493597&idx=1&sn=476060dfb965768a9a993dca4ff4d273&chksm=a69b949091ec1d865ecb3880453cc3f4e98a92be9a01d64018d87fd4fce4d361284e303eb7b9&token=187311539&lang=zh_CN#rd)
