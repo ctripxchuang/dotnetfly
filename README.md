@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年10月09日 周日】[记一次 .NET 某工控视觉软件 非托管泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495447&idx=2&sn=0d73251d5940f18c5fbec5933dda61dd&chksm=a69b9c5a91ec154c813192d52bf80c253938ca78030ce24f329a02c62187913522f8983fa2db&token=172930096&lang=zh_CN#rd)
+
 - 【2022年09月13日 周二】[记一次 .NET 某打印服务 非托管内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495262&idx=1&sn=3d31315aeff52c534f8e9dc72424a164&chksm=a69b9d1391ec14051d9e9a4c0df976bb262ad98792864507fa00de5cd5d6c7ce70c3f199cdd1&token=955187462&lang=zh_CN#rd)
 
 - 【2022年09月06日 周二】[记一次 .NET 某数控机床控制程序 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495248&idx=2&sn=a972d73bb957c409e473967d0b5687a3&chksm=a69b9d1d91ec140be06e9c10bc69087946a1dd382bea36e97ca0dbfcc7c4766946a3bc580276&token=955187462&lang=zh_CN#rd)
