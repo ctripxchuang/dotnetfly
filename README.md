@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年10月11日 周二】[记一次 .NET 某电子病历 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495487&idx=1&sn=727e2a2d7afc15857e42c603b4d28114&chksm=a69b9c7291ec1564dadb868713b16b11587d53a56547c7dd0ccb8b74b5dbaaea1d044f2dd125&token=1007664770&lang=zh_CN#rd)
+
+- 【2022年10月10日 周一】[记一次某制造业ERP系统 CPU打爆事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495467&idx=1&sn=ba2ed1c58b1e81066c3558098d79842e&chksm=a69b9c6691ec1570cf0af0c449337ca136419fa3228dcd192ce04ad7e9c49be10cbd2bb3d93a&token=1007664770&lang=zh_CN#rd)
+
 - 【2022年10月09日 周日】[记一次 .NET 某工控视觉软件 非托管泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495447&idx=2&sn=0d73251d5940f18c5fbec5933dda61dd&chksm=a69b9c5a91ec154c813192d52bf80c253938ca78030ce24f329a02c62187913522f8983fa2db&token=172930096&lang=zh_CN#rd)
 
 - 【2022年09月13日 周二】[记一次 .NET 某打印服务 非托管内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495262&idx=1&sn=3d31315aeff52c534f8e9dc72424a164&chksm=a69b9d1391ec14051d9e9a4c0df976bb262ad98792864507fa00de5cd5d6c7ce70c3f199cdd1&token=955187462&lang=zh_CN#rd)
