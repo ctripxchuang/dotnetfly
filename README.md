@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年10月23日 周日】[记一次 .NET 某娱乐聊天流平台 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495548&idx=1&sn=9f377a2c229981481a2af6eefd652a10&chksm=a69b9c3191ec1527596da4e18106e26e01ff678e4701c4ac1d2faff0a0b8e7a3dd46d02cfb1c&token=1362409699&lang=zh_CN#rd)
+
+- 【2022年10月13日 周四】[记一次 .NET 某企业OA后端服务 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495503&idx=1&sn=9b3066ad6b3f846ede84cb18a355f294&chksm=a69b9c0291ec15140121b12fddf4d5c9645f4ccc824ea1cbc27f16b2f9694f02d09e22b3b715&token=1362409699&lang=zh_CN#rd)
+
 - 【2022年10月11日 周二】[记一次 .NET 某电子病历 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495487&idx=1&sn=727e2a2d7afc15857e42c603b4d28114&chksm=a69b9c7291ec1564dadb868713b16b11587d53a56547c7dd0ccb8b74b5dbaaea1d044f2dd125&token=1007664770&lang=zh_CN#rd)
 
 - 【2022年10月10日 周一】[记一次某制造业ERP系统 CPU打爆事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495467&idx=1&sn=ba2ed1c58b1e81066c3558098d79842e&chksm=a69b9c6691ec1570cf0af0c449337ca136419fa3228dcd192ce04ad7e9c49be10cbd2bb3d93a&token=1007664770&lang=zh_CN#rd)
