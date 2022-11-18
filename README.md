@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年11月18日 周五】[记一次 .NET 某自动化采集软件 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495763&idx=1&sn=f1ff8b53898edfc14d38e65e6028f977&chksm=a69b831e91ec0a0889913af94ba6ea92025eb64dab4201962ab47d5a2926294bbe25796ddc82&token=1946171397&lang=zh_CN#rd)
+
+- 【2022年11月14日 周一】[记一次.NET某工控图片上传CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495731&idx=1&sn=289d6388bedc172fe6a2438e4304b99a&chksm=a69b837e91ec0a685f15f9dce9d843cc4b186542d1c1a156fc9272bb53775c16438aac04c0a8&token=1946171397&lang=zh_CN#rd)
+
 - 【2022年11月04日 周五】[记一次 .NET 某制造业 MES 系统崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495663&idx=1&sn=eacf1e9e70184ce6349e90fa7bb63429&chksm=a69b9ca291ec15b497d0442d7729ca9aeb8638ce79db32ac5c0dcc7c3513a57a0a0c1de3e670&token=1947614004&lang=zh_CN#rd)
 
 - 【2022年10月23日 周日】[记一次 .NET 某娱乐聊天流平台 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495548&idx=1&sn=9f377a2c229981481a2af6eefd652a10&chksm=a69b9c3191ec1527596da4e18106e26e01ff678e4701c4ac1d2faff0a0b8e7a3dd46d02cfb1c&token=1362409699&lang=zh_CN#rd)
