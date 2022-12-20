@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2022年12月19日 周一】[记一次.NET 某安全生产系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495965&idx=1&sn=2087fb7e30e536bff7aee6f2928ae86c&chksm=a69b825091ec0b46e8a44099ded5a83b2a8d0ab88b58f6765d262f8eafd49dac5a80e3559f26&token=103031729&lang=zh_CN#rd)
+
+- 【2022年12月16日 周五】[记一次 .NET 某工控MES程序 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495943&idx=2&sn=c2e34e949edd8cb24c1a275f71e98891&chksm=a69b824a91ec0b5c727fdaa67e3f7a11a135d97eef00c19eddce537a06260314f23be10efd6b&token=103031729&lang=zh_CN#rd)
+
 - 【2022年12月02日 周五】[记一次 .NET 某电子厂OA系统 非托管内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495866&idx=1&sn=9cc3c442b43855f0f8129b1c1911b2c2&chksm=a69b83f791ec0ae1b2d495dcbb8b334385b9f89d6c4bbee2e81188bb0e5a0fd792c4be1353ad&token=1751121168&lang=zh_CN#rd)
 
 - 【2022年11月18日 周五】[记一次 .NET 某自动化采集软件 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495763&idx=1&sn=f1ff8b53898edfc14d38e65e6028f977&chksm=a69b831e91ec0a0889913af94ba6ea92025eb64dab4201962ab47d5a2926294bbe25796ddc82&token=1946171397&lang=zh_CN#rd)
