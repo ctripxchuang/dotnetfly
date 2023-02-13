@@ -2,7 +2,7 @@
 
 ### 企业级血泪案例一览
 
-- 【2023年2月13日 周一】[记一次 .NET 某游戏网站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496418&idx=1&sn=f47f12b9aa479de45c5ea9bfd09f14ca&chksm=a69b81af91ec08b9d86ac97b14d0a5ae130f55d7204117cfe3659037dd417a92dbe5af3169fe&token=246753473&lang=zh_CN#rd)
+- 【2023年02月13日 周一】[记一次 .NET 某游戏网站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496418&idx=1&sn=f47f12b9aa479de45c5ea9bfd09f14ca&chksm=a69b81af91ec08b9d86ac97b14d0a5ae130f55d7204117cfe3659037dd417a92dbe5af3169fe&token=246753473&lang=zh_CN#rd)
 
 - 【2022年12月19日 周一】[记一次.NET 某安全生产系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495965&idx=1&sn=2087fb7e30e536bff7aee6f2928ae86c&chksm=a69b825091ec0b46e8a44099ded5a83b2a8d0ab88b58f6765d262f8eafd49dac5a80e3559f26&token=103031729&lang=zh_CN#rd)
 
