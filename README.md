@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年02月27日 周一】[记一次 .NET某家装ERP 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496557&idx=1&sn=65252d960b0e22a4c19e2b9696671440&chksm=a69b802091ec0936ebd715a4311db47797a8390a4c8ad0f3892bdd6a3f1afd9d6f658c0ff5e0&token=1227076055&lang=zh_CN#rd)
+
+- 【2023年02月21日 周二】[记一次 .NET 某医保平台 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496507&idx=2&sn=2f78f01f01754259b9b059f30429bfd6&chksm=a69b807691ec0960db2f7adecf19e8466ef270ccb91b7f12569a6f978def54b05e65c0da0d4e&token=1227076055&lang=zh_CN#rd)
+
 - 【2023年02月13日 周一】[记一次 .NET 某游戏网站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496418&idx=1&sn=f47f12b9aa479de45c5ea9bfd09f14ca&chksm=a69b81af91ec08b9d86ac97b14d0a5ae130f55d7204117cfe3659037dd417a92dbe5af3169fe&token=246753473&lang=zh_CN#rd)
 
 - 【2022年12月19日 周一】[记一次.NET 某安全生产系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495965&idx=1&sn=2087fb7e30e536bff7aee6f2928ae86c&chksm=a69b825091ec0b46e8a44099ded5a83b2a8d0ab88b58f6765d262f8eafd49dac5a80e3559f26&token=103031729&lang=zh_CN#rd)
