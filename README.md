@@ -22,6 +22,9 @@
 
 - 【2022年11月04日 周五】[记一次 .NET 某制造业 MES 系统崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495663&idx=1&sn=eacf1e9e70184ce6349e90fa7bb63429&chksm=a69b9ca291ec15b497d0442d7729ca9aeb8638ce79db32ac5c0dcc7c3513a57a0a0c1de3e670&token=1947614004&lang=zh_CN#rd)
 
+- 【2022年10月25日 周二】[记一次 .NET 某医疗器械 程序崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495591&idx=1&sn=ffa939a902fbec5e961afe1fcb4b8347&chksm=a69b9cea91ec15fc82aaaefb5d54dd0f2b24dab1dc1762804000051841f61e8600ba81003068&token=730191575&lang=zh_CN#rd)
+
+
 - 【2022年10月23日 周日】[记一次 .NET 某娱乐聊天流平台 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495548&idx=1&sn=9f377a2c229981481a2af6eefd652a10&chksm=a69b9c3191ec1527596da4e18106e26e01ff678e4701c4ac1d2faff0a0b8e7a3dd46d02cfb1c&token=1362409699&lang=zh_CN#rd)
 
 - 【2022年10月13日 周四】[记一次 .NET 某企业OA后端服务 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495503&idx=1&sn=9b3066ad6b3f846ede84cb18a355f294&chksm=a69b9c0291ec15140121b12fddf4d5c9645f4ccc824ea1cbc27f16b2f9694f02d09e22b3b715&token=1362409699&lang=zh_CN#rd)
