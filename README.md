@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年03月26日 周日】[记一次.NET某企业ERP网站系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496710&idx=1&sn=2c2027c3020c0de6c9161920c4f9bb14&chksm=a69b874b91ec0e5d1ec0ed0b7124682944308f1c349851ad37e60f7fbbc156621f23a4f93ac5&token=143112780&lang=zh_CN#rd)
+
+- 【2023年03月23日 周四】[记一次 .NET 某医疗住院系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496658&idx=1&sn=f7e019eeef2cb478c84223c2c6841940&chksm=a69b809f91ec0989d649d3f9fbc59030713373adbd77874c9147388a5bb83b06a46759b9f5ab&token=143112780&lang=zh_CN#rd)
+
 - 【2023年03月13日 周一】[记一次 .NET某汽车零件采集系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496599&idx=1&sn=b3673090594341e35703de20fadb72f2&chksm=a69b80da91ec09cc509d4665233b9b1340f519070e0a3226a085fe39d24113dd39c9bca3f5db&token=272209279&lang=zh_CN#rd)
 
 - 【2023年02月27日 周一】[记一次 .NET某家装ERP 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496557&idx=1&sn=65252d960b0e22a4c19e2b9696671440&chksm=a69b802091ec0936ebd715a4311db47797a8390a4c8ad0f3892bdd6a3f1afd9d6f658c0ff5e0&token=1227076055&lang=zh_CN#rd)
