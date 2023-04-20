@@ -2,6 +2,13 @@
 
 ### 企业级血泪案例一览
 
+
+- 【2023年04月20日 周四】[记一次 腾讯会议 的意外崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496933&idx=1&sn=03ec4c95b45c890769778a7610acfefb&chksm=a69b87a891ec0ebea8736849f8e317da5dd12b75a67bc6c8f285505f9c1764f54b3220051057&token=1081462422&lang=zh_CN#rd)
+
+- 【2023年04月18日 周二】[记一次 .NET某医疗器械清洗系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496910&idx=1&sn=288243747171de7766dfc8ab95881d29&chksm=a69b878391ec0e95afa81bd43d6be2fe869936f547cd1b6a2e00839ac544b8d5b3a526ccda8e&token=1081462422&lang=zh_CN#rd)
+
+- 【2023年04月06日 周四】[记一次 .NET 某设备监控系统 死锁分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496862&idx=1&sn=53a0347a15ba5a35614421783a22f2ec&chksm=a69b87d391ec0ec56f29f885a82c253b0a3c416b6831c92df1805a2abee9c2499804d7927822&token=1081462422&lang=zh_CN#rd)
+
 - 【2023年03月31日 周五】[记一次 .NET 某手术室行为信息系统 内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496819&idx=1&sn=48c91cbbc6ecd7783aac2308cf89110c&chksm=a69b873e91ec0e287b0c4cdd3112956271360e78a5c1f6a7f03207299c1719de03f9effbc77d&token=1657656528&lang=zh_CN#rd)
 
 - 【2023年03月30日 周四】[记一次 .NET 某传感器采集系统 线程爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496797&idx=1&sn=76c6a17a86b1333555ce278b91b8121b&chksm=a69b871091ec0e06f73e37a692448b605c7cd94a0a14290caff4b255b33d973dafbd3c4198c2&token=1657656528&lang=zh_CN#rd)
