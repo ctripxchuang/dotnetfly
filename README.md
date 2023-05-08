@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年05月08日 周一】[记一次 .NET某车零件MES系统登录异常分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497051&idx=1&sn=af6f3f6887137c2ad24811b68b7a0995&chksm=a69b861691ec0f00be25aaaf0e91f37e26bf4dd54c452fe9c8c3103a4c0bd8fedcce118456c5&token=1288329071&lang=zh_CN#rd)
+
+- 【2023年04月26日 周三】[记一次 Windows10 内存压缩 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496971&idx=1&sn=631910842a81a832922b15a9ce7b53a1&chksm=a69b864691ec0f5069cbe17f9c60457ab4046d87e30e0cc2bd86ede582b5b3e14865ba8ad6b4&token=1288329071&lang=zh_CN#rd)
+
 - 【2023年04月20日 周四】[记一次 腾讯会议 的意外崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496933&idx=1&sn=03ec4c95b45c890769778a7610acfefb&chksm=a69b87a891ec0ebea8736849f8e317da5dd12b75a67bc6c8f285505f9c1764f54b3220051057&token=1081462422&lang=zh_CN#rd)
 
 - 【2023年04月18日 周二】[记一次 .NET某医疗器械清洗系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496910&idx=1&sn=288243747171de7766dfc8ab95881d29&chksm=a69b878391ec0e95afa81bd43d6be2fe869936f547cd1b6a2e00839ac544b8d5b3a526ccda8e&token=1081462422&lang=zh_CN#rd)
