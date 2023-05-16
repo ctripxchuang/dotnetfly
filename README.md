@@ -2,17 +2,17 @@
 
 ### 企业级血泪案例一览
 
-- 【2023年05月15日 周一】[记一次 .NET某医院门诊软件 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497150&idx=1&sn=3bf3b4a60495d8b79e84a7ab09412f73&chksm=a69b86f391ec0fe56662525760fd43cd03ed22540b69857c50b2396937d5bf215bb505135fa8&token=1657286318&lang=zh_CN#rd)
+- 【2023年05月15日 周一】[记一次 .NET 某医院门诊软件 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497150&idx=1&sn=3bf3b4a60495d8b79e84a7ab09412f73&chksm=a69b86f391ec0fe56662525760fd43cd03ed22540b69857c50b2396937d5bf215bb505135fa8&token=1657286318&lang=zh_CN#rd)
 
-- 【2023年05月12日 周五】[记一次 .NET某智能制造MES系统CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497114&idx=1&sn=7252a4af383143b184f691428671de14&chksm=a69b86d791ec0fc10b51f6e7dce1292a655f5d5e778ab69ca863ae2bb84a3192cebc00bfd8de&token=1657286318&lang=zh_CN#rd)
+- 【2023年05月12日 周五】[记一次 .NET 某智能制造MES系统CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497114&idx=1&sn=7252a4af383143b184f691428671de14&chksm=a69b86d791ec0fc10b51f6e7dce1292a655f5d5e778ab69ca863ae2bb84a3192cebc00bfd8de&token=1657286318&lang=zh_CN#rd)
 
-- 【2023年05月08日 周一】[记一次 .NET某车零件MES系统登录异常分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497051&idx=1&sn=af6f3f6887137c2ad24811b68b7a0995&chksm=a69b861691ec0f00be25aaaf0e91f37e26bf4dd54c452fe9c8c3103a4c0bd8fedcce118456c5&token=1288329071&lang=zh_CN#rd)
+- 【2023年05月08日 周一】[记一次 .NET 某车零件MES系统登录异常分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497051&idx=1&sn=af6f3f6887137c2ad24811b68b7a0995&chksm=a69b861691ec0f00be25aaaf0e91f37e26bf4dd54c452fe9c8c3103a4c0bd8fedcce118456c5&token=1288329071&lang=zh_CN#rd)
 
 - 【2023年04月26日 周三】[记一次 Windows10 内存压缩 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496971&idx=1&sn=631910842a81a832922b15a9ce7b53a1&chksm=a69b864691ec0f5069cbe17f9c60457ab4046d87e30e0cc2bd86ede582b5b3e14865ba8ad6b4&token=1288329071&lang=zh_CN#rd)
 
 - 【2023年04月20日 周四】[记一次 腾讯会议 的意外崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496933&idx=1&sn=03ec4c95b45c890769778a7610acfefb&chksm=a69b87a891ec0ebea8736849f8e317da5dd12b75a67bc6c8f285505f9c1764f54b3220051057&token=1081462422&lang=zh_CN#rd)
 
-- 【2023年04月18日 周二】[记一次 .NET某医疗器械清洗系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496910&idx=1&sn=288243747171de7766dfc8ab95881d29&chksm=a69b878391ec0e95afa81bd43d6be2fe869936f547cd1b6a2e00839ac544b8d5b3a526ccda8e&token=1081462422&lang=zh_CN#rd)
+- 【2023年04月18日 周二】[记一次 .NET 某医疗器械清洗系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496910&idx=1&sn=288243747171de7766dfc8ab95881d29&chksm=a69b878391ec0e95afa81bd43d6be2fe869936f547cd1b6a2e00839ac544b8d5b3a526ccda8e&token=1081462422&lang=zh_CN#rd)
 
 - 【2023年04月06日 周四】[记一次 .NET 某设备监控系统 死锁分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496862&idx=1&sn=53a0347a15ba5a35614421783a22f2ec&chksm=a69b87d391ec0ec56f29f885a82c253b0a3c416b6831c92df1805a2abee9c2499804d7927822&token=1081462422&lang=zh_CN#rd)
 
@@ -55,7 +55,7 @@
 
 - 【2022年10月11日 周二】[记一次 .NET 某电子病历 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495487&idx=1&sn=727e2a2d7afc15857e42c603b4d28114&chksm=a69b9c7291ec1564dadb868713b16b11587d53a56547c7dd0ccb8b74b5dbaaea1d044f2dd125&token=1007664770&lang=zh_CN#rd)
 
-- 【2022年10月10日 周一】[记一次某制造业ERP系统 CPU打爆事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495467&idx=1&sn=ba2ed1c58b1e81066c3558098d79842e&chksm=a69b9c6691ec1570cf0af0c449337ca136419fa3228dcd192ce04ad7e9c49be10cbd2bb3d93a&token=1007664770&lang=zh_CN#rd)
+- 【2022年10月10日 周一】[记一次 .NET 某制造业ERP系统 CPU打爆事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495467&idx=1&sn=ba2ed1c58b1e81066c3558098d79842e&chksm=a69b9c6691ec1570cf0af0c449337ca136419fa3228dcd192ce04ad7e9c49be10cbd2bb3d93a&token=1007664770&lang=zh_CN#rd)
 
 - 【2022年10月09日 周日】[记一次 .NET 某工控视觉软件 非托管泄漏分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495447&idx=2&sn=0d73251d5940f18c5fbec5933dda61dd&chksm=a69b9c5a91ec154c813192d52bf80c253938ca78030ce24f329a02c62187913522f8983fa2db&token=172930096&lang=zh_CN#rd)
 
