@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年05月22日 周一】[记一次 .NET 某汽贸店 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497221&idx=2&sn=9fbf98d4f2a5492f0ee51302a59de95d&chksm=a69b854891ec0c5e8917dbcc7917d32746527630fe3b7178ba3f85176c886179bba7c84fd065&token=1223456103&lang=zh_CN#rd)
+
+- 【2023年05月18日 周四】[记一次 Visual Studio 2022 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497195&idx=1&sn=433cddb5c5c511cad5285acd49760cf7&chksm=a69b86a691ec0fb04beaeb9c5d3079bf2bd2cc871ded666d5bac1060a7c4b98a05c18d7355ab&token=1223456103&lang=zh_CN#rd)
+
 - 【2023年05月15日 周一】[记一次 .NET 某医院门诊软件 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497150&idx=1&sn=3bf3b4a60495d8b79e84a7ab09412f73&chksm=a69b86f391ec0fe56662525760fd43cd03ed22540b69857c50b2396937d5bf215bb505135fa8&token=1657286318&lang=zh_CN#rd)
 
 - 【2023年05月12日 周五】[记一次 .NET 某智能制造MES系统CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497114&idx=1&sn=7252a4af383143b184f691428671de14&chksm=a69b86d791ec0fc10b51f6e7dce1292a655f5d5e778ab69ca863ae2bb84a3192cebc00bfd8de&token=1657286318&lang=zh_CN#rd)
