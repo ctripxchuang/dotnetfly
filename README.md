@@ -177,8 +177,21 @@
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
 
 
-### 我的知识星球
+### 我的其他平台账号
 
+* 个人微信：ixchuang
+
+* 公众号： 一线码农聊技术
+
+<a name="公众号"></a>
+
+![](https://i.loli.net/2020/09/23/fgLUVn3YSIDWQpK.png)
+
+* B站     https://space.bilibili.com/409524162
+* 博客园   https://www.cnblogs.com/huangxincheng
+* 知乎    https://www.zhihu.com/people/ixchuang
+
+### 我的知识星球
 
 .NET 发展至今已20多年，再回首时您是否发现所光顾的文章绝大多数都是在`编译器`之上聊 C# 各种特性和用法，很少看到有文章会沉到`编译器`之下来解读 C#，在国内真的很缺少这种深度文章，更没有为此话题聚焦的技术深度社区。
 
@@ -263,24 +276,3 @@
 - [用 Span 对 C# 进程中三大内存区域进行统一访问 ，太厉害了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=2&sn=c06dd9c7b4aac9c397c988ebffbfd497&chksm=a6987d3491eff42224de36fd9d3933993fa7334ff2e987af4744fe0124911e8ae30123d84b7d&token=1961578048&lang=zh_CN#rd)
 
 - [一个 Task 不够，又来一个 ValueTask ，真的学懵了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487538&idx=2&sn=542088a51ee8da815828951a411694d5&chksm=a698637f91efea69ae36e9370d9bc7562fdfb63d34ddf4eb3b81d9c53499b889be2253e0553e&token=1806526632&lang=zh_CN#rd)
-
-
-### 我的其他平台账号
-
-
-* 博客园   https://www.cnblogs.com/huangxincheng
-
-* 知乎    https://www.zhihu.com/people/ixchuang
-
-* B站     https://space.bilibili.com/409524162
-
-* 掘金   https://juejin.im/user/1380642337074718
-
-* 思否   https://segmentfault.com/u/huangxincheng
-
-
-**微信搜索： 一线码农聊技术  或 dotnetfly**
-
-<a name="公众号"></a>
-
-![](https://i.loli.net/2020/09/23/fgLUVn3YSIDWQpK.png)
