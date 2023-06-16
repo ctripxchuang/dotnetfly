@@ -1,9 +1,6 @@
 # 你好，我是一线码农，现躺平中... 专注 .NET 高级调试。
 
-### 作者信息
-
 * 个人微信：ixchuang
-
 * 公众号： 一线码农聊技术
 
 <a name="公众号"></a>
@@ -12,7 +9,6 @@
 
 * B站     https://space.bilibili.com/409524162
 * 博客园   https://www.cnblogs.com/huangxincheng
-* 知乎    https://www.zhihu.com/people/ixchuang
 
 ### 企业级血泪案例一览
 
