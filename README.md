@@ -1,5 +1,19 @@
 # 你好，我是一线码农，现躺平中... 专注 .NET 高级调试。
 
+### 作者信息
+
+* 个人微信：ixchuang
+
+* 公众号： 一线码农聊技术
+
+<a name="公众号"></a>
+
+![](https://i.loli.net/2020/09/23/fgLUVn3YSIDWQpK.png)
+
+* B站     https://space.bilibili.com/409524162
+* 博客园   https://www.cnblogs.com/huangxincheng
+* 知乎    https://www.zhihu.com/people/ixchuang
+
 ### 企业级血泪案例一览
 
 - 【2023年06月15日 周四】[记一次 .NET 某药材管理系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497334&idx=1&sn=170240b3416efe8d8157ae59bde10c6d&chksm=a69b853b91ec0c2d0f00ce8b1d4ba0fe009a6bf107662aeba71d05e160ca44848acdd1977ef8&token=405836491&lang=zh_CN#rd)
@@ -177,21 +191,6 @@
 - 【2020年5月4日 周一】[慎用ToLower和ToUpper，小心把你的系统给拖垮了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483784&idx=1&sn=3ee4a0b58eb85895f2b5951dedc36974&chksm=a69872c591effbd3062ba57c78994e519235896f607f2d8e5052f8787d7e2fa84bd8c12d565e&token=1260076125&lang=zh_CN#rd)
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
-
-
-### 我的其他平台账号
-
-* 个人微信：ixchuang
-
-* 公众号： 一线码农聊技术
-
-<a name="公众号"></a>
-
-![](https://i.loli.net/2020/09/23/fgLUVn3YSIDWQpK.png)
-
-* B站     https://space.bilibili.com/409524162
-* 博客园   https://www.cnblogs.com/huangxincheng
-* 知乎    https://www.zhihu.com/people/ixchuang
 
 ### 我的知识星球
 
