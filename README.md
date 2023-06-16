@@ -221,6 +221,7 @@
 ### Windbg调试解惑一览
 
 
+
 - [教你配置windows上的windbg,linux上的lldb，打入clr内部这一篇就够了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483792&idx=1&sn=b2984c421787efa352678fcf9b50490f&chksm=a69872dd91effbcbedd264f1a59c1671f068b40303e7a190a52b7407196fe3b8bb3e533b9d05&token=1260076125&lang=zh_CN#rd)
 
 - [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
@@ -229,11 +230,19 @@
 
 - [.NET程序崩溃了怎么抓 Dump ? 我总结了三种方案](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490052&idx=1&sn=a4f948f0267698e42f7c5289383fa49d&chksm=a698694991efe05f6daac0f0c4f0bc30b1a3052d2de459ffdf8cc1e828d3df17d5ac746139dd&token=796142711&lang=zh_CN#rd)
 
-- [如何从 dump 文件中提取出 C# 源代码？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489167&idx=1&sn=208edc764f9f88eaf3237d64946f3012&chksm=a69865c291efecd487a37dca0b7a38fafa0965a634893eaaa28c40f49b3827316d1dc4f280d6&token=763414529&lang=zh_CN#rd)
+- [如何获取 C#程序 内核态线程栈](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497269&idx=1&sn=bc03cb59b54cb7742bf4c652ce64ece8&chksm=a69b857891ec0c6eda86ff32489e86269c8848cfae57750433ecfa44fa49caf0303eedc86319&token=405836491&lang=zh_CN#rd)
+
+- [C#托管堆 遭破坏 问题溯源分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496235&idx=1&sn=22c476552262e4d1877056aa0fea07ba&chksm=a69b816691ec0870700fc60117246c516efedebd673aa4a9315a697d7fbb730375090830c3f9&token=405836491&lang=zh_CN#rd)
+
+- [Linux 上的 .NET 崩溃了怎么抓 Dump](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497241&idx=1&sn=4705cc62d0bd31b5d3e0bbab7fdfa0e1&chksm=a69b855491ec0c424371bf0593078b0a5b7198ce197e56183a5c847d99fd30fd37dfab7f6576&token=405836491&lang=zh_CN#rd)
+
+- [玩好.NET高级调试，你也要会写点汇编](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495914&idx=1&sn=6bf82fac830de211f108c539a69b6031&chksm=a69b83a791ec0ab12fd993d669029acad1d67ad6bd81f38703bcf5608bbcff85f0e1ac2871fe&token=405836491&lang=zh_CN#rd)
+
+- [一个超经典 WinForm 卡死问题的再反思](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495695&idx=1&sn=6fa4532d16c6ce64176696dc7f1a3873&chksm=a69b834291ec0a545225856205bf2c5cb2465d06185441e4a615312f557aa95c47e553f9c567&token=405836491&lang=zh_CN#rd)
+
+- [如何提取 x64 程序那些易失的方法参数](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496680&idx=1&sn=5cc8a21764119f4951464b715b13987e&chksm=a69b80a591ec09b3da0838c1a7c241e4c4ad3a7cbb17b5c591292f7b11eba80298a70dfbf09a&token=405836491&lang=zh_CN#rd)
 
 - [一句 Task.Result 就死锁, 这代码还怎么写？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489891&idx=1&sn=f7ca7786a498c0a27bd58339a97111ee&chksm=a6986a2e91efe338f270a7929456f76c63e9c7c2afa181835759ed439c45b8a9926029f81686&token=1711976643&lang=zh_CN#rd)
-
-- [茫茫内存，我该如何用 windbg 找到你 ？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489276&idx=1&sn=b5e15fb9c7b2fa7e74ed176a6e56502b&chksm=a69865b191efeca75b66287fd96c99b3a15334abbe7761c350adc4e8d4a8fcdd6ffbbc94b189&token=1961578048&lang=zh_CN#rd)
 
 - [配置文件中的数据库连接串加密了，你以为我就挖不出来吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247485201&idx=1&sn=1ec4c336bf49f9cdceea14d2661f1d38&chksm=a698745c91effd4ad958c49e8def102fb5027a7139224d10c958a70f8ed69f1e4191a4f746e4&token=1961578048&lang=zh_CN#rd)
 
