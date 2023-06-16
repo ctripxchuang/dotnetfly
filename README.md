@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年06月15日 周四】[记一次 .NET 某药材管理系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497334&idx=1&sn=170240b3416efe8d8157ae59bde10c6d&chksm=a69b853b91ec0c2d0f00ce8b1d4ba0fe009a6bf107662aeba71d05e160ca44848acdd1977ef8&token=405836491&lang=zh_CN#rd)
+
 - 【2023年05月22日 周一】[记一次 .NET 某汽贸店 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497221&idx=2&sn=9fbf98d4f2a5492f0ee51302a59de95d&chksm=a69b854891ec0c5e8917dbcc7917d32746527630fe3b7178ba3f85176c886179bba7c84fd065&token=1223456103&lang=zh_CN#rd)
 
 - 【2023年05月18日 周四】[记一次 Visual Studio 2022 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497195&idx=1&sn=433cddb5c5c511cad5285acd49760cf7&chksm=a69b86a691ec0fb04beaeb9c5d3079bf2bd2cc871ded666d5bac1060a7c4b98a05c18d7355ab&token=1223456103&lang=zh_CN#rd)
