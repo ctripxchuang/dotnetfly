@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年06月25日 周日】[记一次 .NET 某企业采购平台 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497388&idx=1&sn=2477f58cdba2d2e505d67d4b0fd44e9a&chksm=a69b85e191ec0cf7b3b3514b07b37ad7fb601466ea14f3c00a8c435d222aa2e650e742a8dd09&token=800723667&lang=zh_CN#rd)
+
+- 【2023年06月19日 周一】[记一次 .NET 某企业内部审批系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497360&idx=1&sn=2198adeba0c34300401f5e86e91e44ba&chksm=a69b85dd91ec0ccb4b453630ad2b9db3b7576d2c864a4ed98e9f290a0a2da1597f776b90c539&token=800723667&lang=zh_CN#rd)
+
 - 【2023年06月15日 周四】[记一次 .NET 某药材管理系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497334&idx=1&sn=170240b3416efe8d8157ae59bde10c6d&chksm=a69b853b91ec0c2d0f00ce8b1d4ba0fe009a6bf107662aeba71d05e160ca44848acdd1977ef8&token=405836491&lang=zh_CN#rd)
 
 - 【2023年05月22日 周一】[记一次 .NET 某汽贸店 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497221&idx=2&sn=9fbf98d4f2a5492f0ee51302a59de95d&chksm=a69b854891ec0c5e8917dbcc7917d32746527630fe3b7178ba3f85176c886179bba7c84fd065&token=1223456103&lang=zh_CN#rd)
