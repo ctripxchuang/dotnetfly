@@ -2,6 +2,12 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年07月06日 周三】[记一次 .NET 某医院预约平台 内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497524&idx=1&sn=07a0044e1d32cbfe83d7aadc7051f1dd&chksm=a69b847991ec0d6ff50bf6f7493b7574f560bd998f9a561c953866fbe97af45c34cd8aeaf045&token=2101181487&lang=zh_CN#rd)
+
+- 【2023年07月04日 周二】[记一次 .NET 某工控视觉系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497512&idx=1&sn=2dc12b0f68407e37a40fb56220a42153&chksm=a69b846591ec0d738549bc7ccb78f821906f329cda985a604fd80b4d9c899267b22864b469ea&token=2101181487&lang=zh_CN#rd)
+
+- 【2023年06月29日 周四】[记一次 .NET 某埋线管理系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497441&idx=1&sn=eca67407d4d161d8ab25a51de054e3d9&chksm=a69b85ac91ec0cba4eb37f379589b3b6115e5f55e6f83be2e00ac590627e5d6abae0fedfbc5c&token=2101181487&lang=zh_CN#rd)
+
 - 【2023年06月25日 周日】[记一次 .NET 某企业采购平台 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497388&idx=1&sn=2477f58cdba2d2e505d67d4b0fd44e9a&chksm=a69b85e191ec0cf7b3b3514b07b37ad7fb601466ea14f3c00a8c435d222aa2e650e742a8dd09&token=800723667&lang=zh_CN#rd)
 
 - 【2023年06月19日 周一】[记一次 .NET 某企业内部审批系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497360&idx=1&sn=2198adeba0c34300401f5e86e91e44ba&chksm=a69b85dd91ec0ccb4b453630ad2b9db3b7576d2c864a4ed98e9f290a0a2da1597f776b90c539&token=800723667&lang=zh_CN#rd)
