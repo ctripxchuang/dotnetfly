@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年07月31日 周一】[记一次 .NET某物流API系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497685&idx=1&sn=4e04982ee8cf5a0b3a4452fb6a341066&chksm=a69b849891ec0d8e1cc8c6c7adfe36cf9688036158723ec6861c2c3fd49c262307e95f90b6ab&token=1609159932&lang=zh_CN#rd)
+
+- 【2023年07月13日 周四】[记一次.NET 某游戏服务后端 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497575&idx=1&sn=f490aa8d29bc5614bf8eb82d70541ae7&chksm=a69b842a91ec0d3c0c5b26b92f2fb8d9c5794332be4db5a5b609186b5998ec7de23dc7402f3e&token=1609159932&lang=zh_CN#rd)
+
 - 【2023年07月06日 周三】[记一次 .NET 某医院预约平台 内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497524&idx=1&sn=07a0044e1d32cbfe83d7aadc7051f1dd&chksm=a69b847991ec0d6ff50bf6f7493b7574f560bd998f9a561c953866fbe97af45c34cd8aeaf045&token=2101181487&lang=zh_CN#rd)
 
 - 【2023年07月04日 周二】[记一次 .NET 某工控视觉系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497512&idx=1&sn=2dc12b0f68407e37a40fb56220a42153&chksm=a69b846591ec0d738549bc7ccb78f821906f329cda985a604fd80b4d9c899267b22864b469ea&token=2101181487&lang=zh_CN#rd)
