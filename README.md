@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年09月21日 周四】[记一次 .NET 某餐饮小程序 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498131&idx=1&sn=57d5d97bbf89036d0775aad55836ddfe&chksm=a69b8ade91ec03c84f8f98f02f3bfd20ebb9d251330e3ab068c4581cdf5050ec9f321e585db8&token=1183288508&lang=zh_CN#rd)
+
+- 【2023年09月18日 周一】[记一次 .NET 某电力系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498096&idx=1&sn=baf0291fe701a57c42344cd66543637c&chksm=a69b8a3d91ec032b00635d7e7f1892771914a89cc0b844137fc3352cb25c486843958f5dfd08&token=1183288508&lang=zh_CN#rd)
+
 - 【2023年07月31日 周一】[记一次 .NET某物流API系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497685&idx=1&sn=4e04982ee8cf5a0b3a4452fb6a341066&chksm=a69b849891ec0d8e1cc8c6c7adfe36cf9688036158723ec6861c2c3fd49c262307e95f90b6ab&token=1609159932&lang=zh_CN#rd)
 
 - 【2023年07月13日 周四】[记一次.NET 某游戏服务后端 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497575&idx=1&sn=f490aa8d29bc5614bf8eb82d70541ae7&chksm=a69b842a91ec0d3c0c5b26b92f2fb8d9c5794332be4db5a5b609186b5998ec7de23dc7402f3e&token=1609159932&lang=zh_CN#rd)
