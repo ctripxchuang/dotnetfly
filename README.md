@@ -2,6 +2,10 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年09月26日 周二】[记一次 .NET 某拍摄监控软件 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498195&idx=1&sn=bd5690b2e5a7623cff774a407de7725f&chksm=a69b8a9e91ec0388f18f8fc1dfb74b29cb56f974a93ec1d3a5dac66bb7b0aa9b060c6513740b&token=785224166&lang=zh_CN#rd)
+
+- 【2023年09月25日 周一】[记一次 .NET某新能源MES 非托管泄露](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498174&idx=1&sn=e74bc981a2cf505eed652b44746aa8e1&chksm=a69b8af391ec03e570ed0c4231ef2f268161130bf2e24ab6a1359e342d50b246c25660cdf99c&token=785224166&lang=zh_CN#rd)
+
 - 【2023年09月21日 周四】[记一次 .NET 某餐饮小程序 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498131&idx=1&sn=57d5d97bbf89036d0775aad55836ddfe&chksm=a69b8ade91ec03c84f8f98f02f3bfd20ebb9d251330e3ab068c4581cdf5050ec9f321e585db8&token=1183288508&lang=zh_CN#rd)
 
 - 【2023年09月18日 周一】[记一次 .NET 某电力系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498096&idx=1&sn=baf0291fe701a57c42344cd66543637c&chksm=a69b8a3d91ec032b00635d7e7f1892771914a89cc0b844137fc3352cb25c486843958f5dfd08&token=1183288508&lang=zh_CN#rd)
