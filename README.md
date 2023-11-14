@@ -2,6 +2,12 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年11月14日 周二】[记一次 .NET 某券商论坛系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498631&idx=1&sn=d0bd8c80610e52722bf994252e3b3ed2&chksm=a69b88ca91ec01dc5ec47ad808744c76775a9b1a8c0278951c0f1173d76b78f84c9f9da597ee&token=333027640&lang=zh_CN#rd)
+
+- 【2023年11月13日 周一】[记一次 .NET某工控电池检测系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498613&idx=1&sn=6713507dbbcea8020154704647242250&chksm=a69b883891ec012e1657338e1ce7a4b6575e4d050cb5e26c370ace8a4727a5e641220a89341a&token=333027640&lang=zh_CN#rd)
+
+- 【2023年11月01日 周三】[记一次 .NET 某工厂无人车调度系统 线程爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498523&idx=1&sn=7b9bb1583dc074c19fe22aa672bf2689&chksm=a69b885691ec0140a552ea01a6b589b5e0506af3ff3f87eba51766f305937ee78aa7b795f7b7&token=333027640&lang=zh_CN#rd)
+
 - 【2023年10月16日 周一】[记一次 .NET某新能源检测系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498387&idx=1&sn=97ff4afa7ccd89190f1298e1e6029e21&chksm=a69b89de91ec00c88bd64d911e82d7850b36803c67b510899dc100ab1a9a0eeb020320fe8007&token=1048907754&lang=zh_CN#rd)
 
 - 【2023年10月07日 周六】[记一次 .NET某账本软件 非托管泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498302&idx=1&sn=862a114d377dcdc955416156051ca56d&chksm=a69b897391ec0065ebf50151cf4f62f492d9822008ea36ecfa21a7dd9b39b3140450408cccd9&token=232620533&lang=zh_CN#rd)
