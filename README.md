@@ -210,6 +210,9 @@
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
 
+### Windbg调试解惑一览
+
+
 ### 作者信息
 
 * 个人微信：ixchuang
@@ -222,98 +225,3 @@
 
 * B站     https://space.bilibili.com/409524162
 * 博客园   https://www.cnblogs.com/huangxincheng
-
-### 我的知识星球
-
-.NET 发展至今已20多年，再回首时您是否发现所光顾的文章绝大多数都是在`编译器`之上聊 C# 各种特性和用法，很少看到有文章会沉到`编译器`之下来解读 C#，在国内真的很缺少这种深度文章，更没有为此话题聚焦的技术深度社区。
-
-
-既然国内没人做，那我就来试一试，为此我打造了一个以 `内存泄漏，CPU爆高，死锁挂死` 为主题的 .NET 高级调试圈，目前圈子已聚集近 270+ 位资深工程师和架构师，毕竟能轻松搞定这些诡异又非常紧急的生产事故，对老板来说您绝对是压舱石，对团队来说您绝对是技术领袖。
-
-
-独乐乐不如众乐乐，希望这个圈子能够不断的迭代壮大，孵化出一批`.NET高级调试`的技术高手，让原来需要数周才能解决的 内存泄漏，CPU爆高 问题缩短到分钟级。
-
-
-为了圈子的纯粹度，一定要过滤掉`观光客`和`灌水客`，免费的圈子很难运营下去，毕竟调试真的是一场苦行之旅，没有真正的毅力和兴趣很难走下去，也没有随随便便的成功！好酒也怕巷子深。
-
-
-现年费：
-
-## 现价：**99元**
-
-
-#### 送大家一张 **19元** 优惠券，您觉得值那就值。
-
-
-![](https://img2023.cnblogs.com/blog/214741/202304/214741-20230426090129350-1260757863.png)
-
-
-### Windbg调试解惑一览
-
-
-
-- [教你配置windows上的windbg,linux上的lldb，打入clr内部这一篇就够了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483792&idx=1&sn=b2984c421787efa352678fcf9b50490f&chksm=a69872dd91effbcbedd264f1a59c1671f068b40303e7a190a52b7407196fe3b8bb3e533b9d05&token=1260076125&lang=zh_CN#rd)
-
-- [如何在 .NET 程序万种死法中有效的生成 Dump (上)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489260&idx=1&sn=ef89832e72b4beb354e64c527816a456&chksm=a69865a191efecb7378ba266391115b4d29ccfbd8dd70def90c625b2c4051231aae5c5ca2e24&token=763414529&lang=zh_CN#rd)
-
-- [如何在 NET 程序万种死法中有效的生成 Dump (下)](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489377&idx=1&sn=8039f36fa688ff3575009de94d2ae026&chksm=a698642c91efed3a9f3e4f0d100c626ebb37c912557b48eb03a2830cd98145c25cb564e33f01&token=1961578048&lang=zh_CN#rd)
-
-- [.NET程序崩溃了怎么抓 Dump ? 我总结了三种方案](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247490052&idx=1&sn=a4f948f0267698e42f7c5289383fa49d&chksm=a698694991efe05f6daac0f0c4f0bc30b1a3052d2de459ffdf8cc1e828d3df17d5ac746139dd&token=796142711&lang=zh_CN#rd)
-
-- [如何获取 C#程序 内核态线程栈](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497269&idx=1&sn=bc03cb59b54cb7742bf4c652ce64ece8&chksm=a69b857891ec0c6eda86ff32489e86269c8848cfae57750433ecfa44fa49caf0303eedc86319&token=405836491&lang=zh_CN#rd)
-
-- [C#托管堆 遭破坏 问题溯源分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496235&idx=1&sn=22c476552262e4d1877056aa0fea07ba&chksm=a69b816691ec0870700fc60117246c516efedebd673aa4a9315a697d7fbb730375090830c3f9&token=405836491&lang=zh_CN#rd)
-
-- [Linux 上的 .NET 崩溃了怎么抓 Dump](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247497241&idx=1&sn=4705cc62d0bd31b5d3e0bbab7fdfa0e1&chksm=a69b855491ec0c424371bf0593078b0a5b7198ce197e56183a5c847d99fd30fd37dfab7f6576&token=405836491&lang=zh_CN#rd)
-
-- [玩好.NET高级调试，你也要会写点汇编](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495914&idx=1&sn=6bf82fac830de211f108c539a69b6031&chksm=a69b83a791ec0ab12fd993d669029acad1d67ad6bd81f38703bcf5608bbcff85f0e1ac2871fe&token=405836491&lang=zh_CN#rd)
-
-- [一个超经典 WinForm 卡死问题的再反思](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495695&idx=1&sn=6fa4532d16c6ce64176696dc7f1a3873&chksm=a69b834291ec0a545225856205bf2c5cb2465d06185441e4a615312f557aa95c47e553f9c567&token=405836491&lang=zh_CN#rd)
-
-- [如何提取 x64 程序那些易失的方法参数](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496680&idx=1&sn=5cc8a21764119f4951464b715b13987e&chksm=a69b80a591ec09b3da0838c1a7c241e4c4ad3a7cbb17b5c591292f7b11eba80298a70dfbf09a&token=405836491&lang=zh_CN#rd)
-
-- [一句 Task.Result 就死锁, 这代码还怎么写？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247489891&idx=1&sn=f7ca7786a498c0a27bd58339a97111ee&chksm=a6986a2e91efe338f270a7929456f76c63e9c7c2afa181835759ed439c45b8a9926029f81686&token=1711976643&lang=zh_CN#rd)
-
-- [配置文件中的数据库连接串加密了，你以为我就挖不出来吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247485201&idx=1&sn=1ec4c336bf49f9cdceea14d2661f1d38&chksm=a698745c91effd4ad958c49e8def102fb5027a7139224d10c958a70f8ed69f1e4191a4f746e4&token=1961578048&lang=zh_CN#rd)
-
-- [被 C# 的 ThreadStatic 标记的静态变量，都存放在哪里了？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487742&idx=1&sn=6c77fc2e5318eac5c91690ca451e43bd&chksm=a69863b391efeaa56ac0e7cbc2b443a1b098f05593eafea14849f3bd0bba6ce5b835275f0506&token=250896018&lang=zh_CN#rd)
-
-- [对 精致码农大佬 说的 Task.Run 会存在 内存泄漏 的思考](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488049&idx=1&sn=0b0e500c99822f482a7300e44351237f&chksm=a698617c91efe86a78001c6d68d1b1dea064b094641e6d6200276d6f818a10d76f0df322f785&token=250896018&lang=zh_CN#rd)
-
-- [HashSet扩容机制在时间和空间上的浪费，远大于你的想象](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484314&idx=1&sn=c827979c90a9b491b8f78b9f65f1d562&chksm=a69870d791eff9c164aeca6e9bfebaaaf414604d249198f03f3f3246da882a7fe62732b787c4&token=1961578048&lang=zh_CN#rd)
-
-- [linq 查询的结果会开辟新的内存吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487799&idx=1&sn=a5dd0a46913dd832a17fb5ad2131abcf&chksm=a698627a91efeb6c99ff5455c4ab96229d97011ebb76765e1d6e148a1ced54fe92e6cbe25596&token=250896018&lang=zh_CN#rd)
-
-- [用了这么多年的泛型，你对它到底有多了解？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483746&idx=1&sn=1a9ae1e942d12ce0ae184ebaddd96a3a&chksm=a698722f91effb394d008529ab311e97ae94651e76d36a2c70ceaf020faace687d91e067a0f5&token=1260076125&lang=zh_CN#rd)
-
-- [对精致码农大佬的 [理解 volatile 关键字] 文章结论的思考和寻找真相](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487203&idx=6&sn=928571ed608091597892e909e64db0e8&chksm=a6987dae91eff4b8ac3c8ebc55316ad24fbe0801e903832ac57e9251366655bd7870a5c6bba7&token=2136785246&lang=zh_CN#rd)
-
-- [一个static和面试官扯了一个小时，舌战加强版](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484105&idx=1&sn=0e53cc1900421222a5eae65ee1cfd725&chksm=a698718491eff892a4e63d5cf62a0b1e2ee2f85ed7a1111cd889d4f97f9f6db0309e0d7ae096&token=1098575339&lang=zh_CN#rd)
-
-- [一个lock锁就可以分出低中高水平的程序员对问题的处置方式](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483721&idx=1&sn=ae0af61c33fbd515943a8523acbddfe0&chksm=a698720491effb122e53f8308024c1218da04381f8106dc78ba738869d332b132e61c186e42b&token=1260076125&lang=zh_CN#rd)
-
-- [C#8.0之后接口已经不再单纯了，我懵逼了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487047&idx=2&sn=4e37be491ae28676e36a55c7d5451a5d&chksm=a6987d0a91eff41c8d4fe891548aabd8c3c4b680195b4048fee4f30e09c06c54b22e50ef4a69&token=1961578048&lang=zh_CN#rd)
-
-- [非常简单的string驻留池，你对它真的了解吗](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483754&idx=1&sn=b901fee371a4aeb799337520b35d9bfb&chksm=a698722791effb31c3806b95efe08c30dba630cd22bee6cd87761239b09e36295af488a7a994&token=1260076125&lang=zh_CN#rd)
-
-- [从GC的SuppressFinalize方法带你深刻认识Finalize底层运行机制](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483758&idx=1&sn=415a5d4650e3363b0c9df8126aa529cc&chksm=a698722391effb35f068b09f137450f0084be57d44111540de71d4cc75463fc7c7b14789c667&token=1260076125&lang=zh_CN#rd)
-
-- [面向接口编程，你考虑过性能吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483766&idx=1&sn=6b639499cf910587227bf8ed576f557c&chksm=a698723b91effb2d7925c6740eaccc347c42e7ec062ccbefce3620b6a2588e3aec380c1c7c8a&token=1260076125&lang=zh_CN#rd)
-
-- [内存迟迟下不去，可能你就差一个GC.Collect](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483788&idx=1&sn=5643b128ef64168bdbd231a32d955c67&chksm=a69872c191effbd7513eaf65453d3305c2bc9a01f180ae99ed1fd512585911f4b4a805258bc8&token=1260076125&lang=zh_CN#rd)
-
-- [不要把异常当做业务逻辑，这性能可能你无法承受](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483801&idx=1&sn=255f7b548a5c6b2a124c2adc9a7fff17&chksm=a69872d491effbc2d10ef4f684187144f4a7a2fdea79b17c554910d9e15d0dfaf1d48803d835&token=1260076125&lang=zh_CN#rd)
-
-- [List的扩容机制，你真的明白吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483934&idx=1&sn=1e37bd686ba5b4e0e1a41a836258f126&chksm=a698715391eff845c79db6badfb45f63a926d5bfd0d450276661bd7e7cc67ffbdc81fe30fca9&token=1260076125&lang=zh_CN#rd)
-
-- [追了多年的开发框架，你还认识指针吗？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483823&idx=1&sn=b1c6155b16283a99a9be855c57c13b8e&chksm=a69872e291effbf404f89ec538d28d5b1cf4ed2786f3feb43d17db985639b4ed24d7c5edd55f&token=1098575339&lang=zh_CN#rd)
-
-- [自定义值类型一定不要忘了重写Equals，否则性能和空间双双堪忧](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484027&idx=1&sn=5af5f193b594ef57468d3cb2e423c1cc&chksm=a698713691eff820939fc493dd619f000858a90d7c911583e0af052a517307d236f9eccd847c&token=1742856040&lang=zh_CN#rd)
-
-- [C# 中的 ref 已经被放开，或许你已经不认识了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487484&idx=1&sn=4644c2ce523ba8c40ae995bf2db3fbb5&chksm=a6987cb191eff5a7cd69b887188eb22e34fe1797e6e699d90078b1c8d2165014936a480b1492&token=2136785246&lang=zh_CN#rd)
-
-- [C# Span 源码解读和应用实践](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487593&idx=1&sn=17a1244733c5f84ee7318b8de01ab919&chksm=a698632491efea32d731ccc51c84780bf1418778d5decbcb3d25f7eda5a1fe006088ea2db35f&token=1806526632&lang=zh_CN#rd)
-
-- [用 Span 对 C# 进程中三大内存区域进行统一访问 ，太厉害了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=2&sn=c06dd9c7b4aac9c397c988ebffbfd497&chksm=a6987d3491eff42224de36fd9d3933993fa7334ff2e987af4744fe0124911e8ae30123d84b7d&token=1961578048&lang=zh_CN#rd)
-
-- [一个 Task 不够，又来一个 ValueTask ，真的学懵了！](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487538&idx=2&sn=542088a51ee8da815828951a411694d5&chksm=a698637f91efea69ae36e9370d9bc7562fdfb63d34ddf4eb3b81d9c53499b889be2253e0553e&token=1806526632&lang=zh_CN#rd)
