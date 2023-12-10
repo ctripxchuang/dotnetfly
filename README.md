@@ -3,7 +3,7 @@
 ### 企业级血泪案例一览
 
 - 【2023年11月29日 周三】[记一次 .NET某零售管理系统 存储不足分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498809&idx=1&sn=5bfe1f19d60650436413154dddbd8dd6&chksm=a69b8f7491ec06626668e491b98c82c84b81b8b56673f8bc3795fd4fbc1be7aa3b6488377da5&token=515366489&lang=zh_CN#rd)
-- 
+  
 - 【2023年11月14日 周二】[记一次 .NET 某券商论坛系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498631&idx=1&sn=d0bd8c80610e52722bf994252e3b3ed2&chksm=a69b88ca91ec01dc5ec47ad808744c76775a9b1a8c0278951c0f1173d76b78f84c9f9da597ee&token=333027640&lang=zh_CN#rd)
 
 - 【2023年11月13日 周一】[记一次 .NET某工控电池检测系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498613&idx=1&sn=6713507dbbcea8020154704647242250&chksm=a69b883891ec012e1657338e1ce7a4b6575e4d050cb5e26c370ace8a4727a5e641220a89341a&token=333027640&lang=zh_CN#rd)
