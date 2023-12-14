@@ -3,7 +3,7 @@
 ### 企业级血泪案例一览
 
 - 【2023年12月11日 周一】[记一次 .NET 某新能源材料检测系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498919&idx=1&sn=ee02b7779a09aa90a138f7ea0564b007&chksm=a69b8fea91ec06fca8794602bbdefe9be74b8b602c0184442e2fec7b6b857b715b236a7af19d&token=1799395124&lang=zh_CN#rd)
-- 
+  
 - 【2023年11月29日 周三】[记一次 .NET某零售管理系统 存储不足分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498809&idx=1&sn=5bfe1f19d60650436413154dddbd8dd6&chksm=a69b8f7491ec06626668e491b98c82c84b81b8b56673f8bc3795fd4fbc1be7aa3b6488377da5&token=515366489&lang=zh_CN#rd)
   
 - 【2023年11月14日 周二】[记一次 .NET 某券商论坛系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498631&idx=1&sn=d0bd8c80610e52722bf994252e3b3ed2&chksm=a69b88ca91ec01dc5ec47ad808744c76775a9b1a8c0278951c0f1173d76b78f84c9f9da597ee&token=333027640&lang=zh_CN#rd)
@@ -213,9 +213,6 @@
 - 【2020年5月4日 周一】[慎用ToLower和ToUpper，小心把你的系统给拖垮了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483784&idx=1&sn=3ee4a0b58eb85895f2b5951dedc36974&chksm=a69872c591effbd3062ba57c78994e519235896f607f2d8e5052f8787d7e2fa84bd8c12d565e&token=1260076125&lang=zh_CN#rd)
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
-
-### Windbg调试解惑一览
-
 
 ### 作者信息
 
