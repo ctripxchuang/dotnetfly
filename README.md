@@ -2,6 +2,12 @@
 
 ### 企业级血泪案例一览
 
+- 【2023年12月28日 周四】[记一次 .NET某股票交易软件 灵异崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499086&idx=1&sn=c13eedd9609f67450336d004ce5cfc64&chksm=a69b8e0391ec0715f5a8d4417725900d3108e77b51ceb5a287126683af98f0b93c80cf2a2f65&token=1335801030&lang=zh_CN#rd)
+
+- 【2023年12月25日 周一】[记一次.NET某工控 宇宙射线 导致崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499055&idx=1&sn=299b0925f9baea81086533035642e1f5&chksm=a69b8e6291ec0774f462cb9e069d88c3a4aa6a4833557ca1f2b3e34ef94cce0ef9eae3effab1&token=1335801030&lang=zh_CN#rd)
+
+- 【2023年12月20日 周三】[记一次 .NET 某药厂业务系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498999&idx=1&sn=38cf880cde6717775c4e887d9d592f75&chksm=a69b8fba91ec06ac148f7344d5c430f18fe9a58a851a7ca8e32a5ad2e80f7c2561a4a7ddfdbf&token=1335801030&lang=zh_CN#rd)
+  
 - 【2023年12月11日 周一】[记一次 .NET 某新能源材料检测系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498919&idx=1&sn=ee02b7779a09aa90a138f7ea0564b007&chksm=a69b8fea91ec06fca8794602bbdefe9be74b8b602c0184442e2fec7b6b857b715b236a7af19d&token=1799395124&lang=zh_CN#rd)
   
 - 【2023年11月29日 周三】[记一次 .NET某零售管理系统 存储不足分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247498809&idx=1&sn=5bfe1f19d60650436413154dddbd8dd6&chksm=a69b8f7491ec06626668e491b98c82c84b81b8b56673f8bc3795fd4fbc1be7aa3b6488377da5&token=515366489&lang=zh_CN#rd)
