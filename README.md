@@ -2,6 +2,8 @@
 
 ### 企业级血泪案例一览
 
+- 【2024年1月5日 周四】[记一次 .NET某收银软件 非托管泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499167&idx=1&sn=f53d69c1c41b19d6f58d1b16b52066ba&chksm=a69b8ed291ec07c4aba1ce0eaf218f80a04ffce967c4a1b8287796900db3121f14707f796f72&token=2060070220&lang=zh_CN#rd)
+  
 - 【2023年12月28日 周四】[记一次 .NET某股票交易软件 灵异崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499086&idx=1&sn=c13eedd9609f67450336d004ce5cfc64&chksm=a69b8e0391ec0715f5a8d4417725900d3108e77b51ceb5a287126683af98f0b93c80cf2a2f65&token=1335801030&lang=zh_CN#rd)
 
 - 【2023年12月25日 周一】[记一次.NET某工控 宇宙射线 导致崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499055&idx=1&sn=299b0925f9baea81086533035642e1f5&chksm=a69b8e6291ec0774f462cb9e069d88c3a4aa6a4833557ca1f2b3e34ef94cce0ef9eae3effab1&token=1335801030&lang=zh_CN#rd)
