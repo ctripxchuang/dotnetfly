@@ -2,13 +2,13 @@
 
 ### 企业级血泪案例一览
 
+- 【2024年2月21日 周三】[记一次 .NET某列控连锁系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499329&idx=1&sn=2a1d0e1e6674ffeebb5f6b223b86c9b8&chksm=a69b8d0c91ec041a090941834eb7eeb983092edf91b086f5f15c3d2bc9e4761fa6840757f435&token=348027274&lang=zh_CN#rd)
+
 - 【2024年1月26日 周五】[记一次 .NET某工控自动化系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499310&idx=1&sn=06f20fc7ccde1486d830c97b2ae812c8&chksm=a69b8d6391ec0475db21c028a8112f16506269a08084a0ed8f17c40ce14c2588496cbea78cf7&token=1029202784&lang=zh_CN#rd)
 
 - 【2024年1月18日 周四】[记一次 .NET某道闸收费系统 内存溢出分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499216&idx=1&sn=67cd0344f8f018db6d5221aa584637d2&chksm=a69b8e9d91ec078b068a76cc7ab7ab6d2240ede513fefb0aaeced37d6550d036d3a72f3aacad&token=1422523679&lang=zh_CN#rd)
 
 - 【2024年1月15日 周一】[记一次 .NET某MES自动化桌面程序 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499192&idx=1&sn=f4c9c50b183853a8add7a8aeba319c5f&chksm=a69b8ef591ec07e34bc6c09e937434412fc502d72b57da3415ec37b65aaeb8926ac51f785928&token=1422523679&lang=zh_CN#rd)
-  
-- 【2024年1月5日 周四】[记一次 .NET某收银软件 非托管泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499167&idx=1&sn=f53d69c1c41b19d6f58d1b16b52066ba&chksm=a69b8ed291ec07c4aba1ce0eaf218f80a04ffce967c4a1b8287796900db3121f14707f796f72&token=2060070220&lang=zh_CN#rd)
   
 - 【2024年1月5日 周四】[记一次 .NET某收银软件 非托管泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499167&idx=1&sn=f53d69c1c41b19d6f58d1b16b52066ba&chksm=a69b8ed291ec07c4aba1ce0eaf218f80a04ffce967c4a1b8287796900db3121f14707f796f72&token=2060070220&lang=zh_CN#rd)
   
