@@ -2,7 +2,9 @@
 
 ### 企业级血泪案例一览
 
-- 【2024年2月21日 周三】[记一次 .NET某列控连锁系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499329&idx=1&sn=2a1d0e1e6674ffeebb5f6b223b86c9b8&chksm=a69b8d0c91ec041a090941834eb7eeb983092edf91b086f5f15c3d2bc9e4761fa6840757f435&token=348027274&lang=zh_CN#rd)
+- 【2024年3月19日 周二】[记一次 .NET某施工建模软件 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499414&idx=1&sn=ad3360a2c049905c69ceb81ebe4f4cf0&chksm=a69b8ddb91ec04cdc0e16f854396c1857d23d2c18aff95ca35206c6f25d5546ba0cb34c4d0e5&token=982327112&lang=zh_CN#rd)
+
+- 【2024年3月6日 周三】[记一次 .NET某设备监控自动化系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499384&idx=1&sn=68be8324e37a395fb40f4660f455ffe1&chksm=a69b8d3591ec04237b1127ebeec852d4d04d273050efc1cef573ac5abfadca5aea32e6c4d573&token=982327112&lang=zh_CN#rd)
 
 - 【2024年1月26日 周五】[记一次 .NET某工控自动化系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499310&idx=1&sn=06f20fc7ccde1486d830c97b2ae812c8&chksm=a69b8d6391ec0475db21c028a8112f16506269a08084a0ed8f17c40ce14c2588496cbea78cf7&token=1029202784&lang=zh_CN#rd)
 
