@@ -2,6 +2,14 @@
 
 ### 企业级血泪案例一览
 
+- 【2024年4月7日 周日】[记一次 .NET某管理局检测系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499550&idx=1&sn=ee5a5c1f8802bc3f54a2f113d6f56047&chksm=a69b8c5391ec05454caee1d17f2d7d17264a9bc52b0febabc8c53ce8203a8d46973558d3e0f3&token=1974770399&lang=zh_CN#rd)
+
+- 【2024年3月28日 周四】[记一次 .NET某防伪验证系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499517&idx=1&sn=5d533d4cd250e73358b9b872baf68438&chksm=a69b8db091ec04a64b55d0ea7f080eb677dfc4492a22e2a14de201d4b1915cb855ff1daf6814&token=1974770399&lang=zh_CN#rd)
+
+- 【2024年3月25日 周一】[记一次 .NET某半导体CIM系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499499&idx=1&sn=212efc9e602eabdfd88386542c090fc9&chksm=a69b8da691ec04b0341ecfba1e759f9a9959df2282029667926ca82ee934414ac7c66251e2e2&token=1974770399&lang=zh_CN#rd)
+
+- 【2024年3月21日 周四】[记一次 .NET某游戏后端API服务 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499444&idx=1&sn=68ebb6a7ca490d9e03af26f2f4dc2955&chksm=a69b8df991ec04ef027b608cb6df96c3d34f4224a17b94f66a8a876159170f33e36bc675669d&token=1974770399&lang=zh_CN#rd)
+
 - 【2024年3月19日 周二】[记一次 .NET某施工建模软件 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499414&idx=1&sn=ad3360a2c049905c69ceb81ebe4f4cf0&chksm=a69b8ddb91ec04cdc0e16f854396c1857d23d2c18aff95ca35206c6f25d5546ba0cb34c4d0e5&token=982327112&lang=zh_CN#rd)
 
 - 【2024年3月6日 周三】[记一次 .NET某设备监控自动化系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499384&idx=1&sn=68be8324e37a395fb40f4660f455ffe1&chksm=a69b8d3591ec04237b1127ebeec852d4d04d273050efc1cef573ac5abfadca5aea32e6c4d573&token=982327112&lang=zh_CN#rd)
