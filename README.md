@@ -2,7 +2,7 @@
 
 ### 企业级血泪案例一览
 
-- 【2024年4月7日 周日】[记一次 .NET某管理局检测系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499550&idx=1&sn=ee5a5c1f8802bc3f54a2f113d6f56047&chksm=a69b8c5391ec05454caee1d17f2d7d17264a9bc52b0febabc8c53ce8203a8d46973558d3e0f3&token=1974770399&lang=zh_CN#rd)
+- 【2024年4月07日 周日】[记一次 .NET某管理局检测系统 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499550&idx=1&sn=ee5a5c1f8802bc3f54a2f113d6f56047&chksm=a69b8c5391ec05454caee1d17f2d7d17264a9bc52b0febabc8c53ce8203a8d46973558d3e0f3&token=1974770399&lang=zh_CN#rd)
 
 - 【2024年3月28日 周四】[记一次 .NET某防伪验证系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499517&idx=1&sn=5d533d4cd250e73358b9b872baf68438&chksm=a69b8db091ec04a64b55d0ea7f080eb677dfc4492a22e2a14de201d4b1915cb855ff1daf6814&token=1974770399&lang=zh_CN#rd)
 
