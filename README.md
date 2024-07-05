@@ -252,15 +252,11 @@
 
 - 【2021年2月8日 周一】[再记一次 应用服务器 CPU 暴高事故分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247488730&idx=1&sn=759c8b2bd1f01136a68b7659f926fa45&chksm=a698679791efee81392a6143f8f0f176d8c11fa399dd53eae164b215810d78d41fa5a7e45f3e&token=1961578048&lang=zh_CN#rd)
 
-- 【2020年6月4日 周四】[字符串太占内存了，我想了各种奇思淫巧对它进行压缩](http://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484069&idx=1&sn=9a0a2b700edc20294a5f280c39f8ad78&chksm=a69871e891eff8fe8ec369eab8fa480416ccce1cfe188ccb55409cdf42841dfa90281a16d816&token=1098575339&lang=zh_CN#rd)
-
 - 【2020年5月26日 周二】[阿里短信回执.net sdk的bug导致生产服务cpu 100%排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483948&idx=1&sn=eed8e82f25da46340846194000d869cc&chksm=a698716191eff877b980dce7531436ffad3dbb7541275a4e8f625551616206ecc62466c182e1&token=430418757&lang=zh_CN#rd)
 
 - 【2020年5月22日 周五】[BitArray虽好，但请不要滥用，又一次线上内存暴增排查](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483895&idx=1&sn=9df99be01677a20288b7d18ded113977&chksm=a69872ba91effbac65df26f3f0fcd46c5bd9a9ebd5f1528c213cdf621099439ba98e76720094&token=1260076125&lang=zh_CN#rd)
 
 - 【2020年5月20日 周三】[记一次排查线上程序内存的忽高忽低，又是大集合惹祸了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483887&idx=1&sn=3bfea65a9ccd58df5813face404de5c9&chksm=a69872a291effbb40554a72df4d34084dbce76c58ac66bc8af21cd606d7ddb4c6a0e4da7d8e9&token=1260076125&lang=zh_CN#rd)
-
-- 【2020年5月4日 周一】[慎用ToLower和ToUpper，小心把你的系统给拖垮了](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483784&idx=1&sn=3ee4a0b58eb85895f2b5951dedc36974&chksm=a69872c591effbd3062ba57c78994e519235896f607f2d8e5052f8787d7e2fa84bd8c12d565e&token=1260076125&lang=zh_CN#rd)
 
 - 【2020年4月27日 周一】[用long类型让我出了次生产事故，写代码还是要小心点](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247483750&idx=1&sn=c407fe5eebc9cd64c65e46d843679f98&chksm=a698722b91effb3d49c9a01f06a9e8ceb05ca08ff6a9ed80a1b7db441ee954399ebea69f4d4a&token=1961578048&lang=zh_CN#rd)
 
