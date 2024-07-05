@@ -2,7 +2,19 @@
 
 ### 企业级生产事故分析报告一览
 
-- 【2024年5月31日 周五】[记一次 .NET某工业设计软件 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499746&idx=1&sn=b6d8c17ef9c9dd0ef2ccd6d5658662f6&chksm=a69b8caf91ec05b9fc756d8bb7d2dc459f37e3807370ace58fa09e3c98129b647e1bd6d8c06f&token=1547937160&lang=zh_CN#rd)
+- 【2024年7月1日 周一】[记一次 .NET某网络边缘计算系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500038&idx=1&sn=568466613331b53749a3951db1913eca&chksm=a69bb24b91ec3b5d64f3279858adc1ef480978ec1b367bc01ef0934171aaf56cca75249febc1&token=1438905200&lang=zh_CN#rd)
+
+- 【2024年6月18日 周二】[记一次 .NET某机械臂上位系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499921&idx=1&sn=3438d64b3cbc331a4456409e39ad584f&chksm=a69bb3dc91ec3aca74f24fd8568bb13e9671a5d338753bc8276f61d13e97bca9bc691be96923&token=1438905200&lang=zh_CN&poc_token=HLZYh2ajbd1tvBIs0EzxXXsCZNPidED_UCHc0THn)
+
+- 【2024年6月13日 周四】[记一次 .NET某工厂报警监控设置 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499853&idx=1&sn=4562ef66df26741f9c5b532bee520987&chksm=a69bb30091ec3a16d8d497db092f933861ad3d806ec38e86d523b98edcea01dd04c3fa6f18ec&token=1438905200&lang=zh_CN#rd)
+
+- 【2024年6月12日 周三】[记一次 .NET某游戏币自助机 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499836&idx=1&sn=90fd4db9a8bb84b5802ad023e1d09aeb&chksm=a69bb37191ec3a675b2faa105e2c8828f65a568549d376f7372998bde0e206f6e987121497c5&token=1438905200&lang=zh_CN#rd)
+
+- 【2024年6月6日 周四】[记一次 .NET某工控视觉自动化系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499797&idx=1&sn=e786ee7989e23cb196c9c5eee574ef39&chksm=a69bb35891ec3a4eb417928d83501794f5a5a3f9abea8058b4d43ace87a82b37aec2408ba667&token=1438905200&lang=zh_CN#rd)
+
+- 【2024年6月4日 周二】[记一次 .NET某质量检测中心系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499772&idx=1&sn=c8ffe8c98548a20a779d3b7cf229a23e&chksm=a69b8cb191ec05a72640187ea100552232bb512eb717c8c1cdf5313ea5bef9abb2577b42bc13&token=1438905200&lang=zh_CN#rd)
+
+- 【2024年5月31日 周五】[记一次 .NET某工业设计软件 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499746&idx=1&sn=b6d8c17ef9c9dd0ef2ccd6d5658662f6&chksm=a69b8caf91ec05b9fc756d8bb7d2dc459f37e3807370ace58fa09e3c98129b647e1bd6d8c06f&token=1438905200&lang=zh_CN#rd)
 
 - 【2024年5月28日 周二】[记一次 .NET某工控WPF程序被人恶搞的 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499725&idx=1&sn=801b5a560e54dd1030346743079b6754&chksm=a69b8c8091ec059607c3e6e71d39d9290e3f49f8c1c65cc1e0577d50022ead09d8bbeb61ce61&token=1547937160&lang=zh_CN#rd)
 
