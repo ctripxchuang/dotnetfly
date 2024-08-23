@@ -2,6 +2,14 @@
 
 ### 企业级生产事故分析报告一览
 
+- 【2024年8月9日 周五】[记一次 .NET某环境监测系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500222&idx=1&sn=cddb6ae71f331f67f1d7107e2bca93db&chksm=a69bb2f391ec3be52e0a87d43052540faa7d3c0658ab98aa74c7cd2e4338f98e58778578a8d3&token=1874918752&lang=zh_CN#rd)
+
+- 【2024年8月8日 周四】[记一次 .NET某智慧出行系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500202&idx=1&sn=fc40d0ef5d27a249831df478c3efbdf3&chksm=a69bb2e791ec3bf16b07f399d89484157d08e87e17f98952cef626ad1b6601c4aa77da38690b&token=1874918752&lang=zh_CN#rd)
+
+- 【2024年7月12日 周五】[记一次 .NET某上位视觉程序 离奇崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500120&idx=1&sn=e0ed93b2fb9f16a34c3e6020d1fc7b4a&chksm=a69bb21591ec3b03115aba060009ddcef24322588b14c33bd8f31e5855abb10705bbf606c26f&token=1874918752&lang=zh_CN#rd)
+
+- 【2024年7月9日 周二】[记一次 .NET某酒业业务系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500074&idx=1&sn=c5e4d90cd7ba2784e187a91befd138ac&chksm=a69bb26791ec3b7190d716bf9b438af8e89c2b8b1c9f06d8bff7509069f0ddeb5c16b1ba81a9&token=1874918752&lang=zh_CN#rd)
+
 - 【2024年7月1日 周一】[记一次 .NET某网络边缘计算系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500038&idx=1&sn=568466613331b53749a3951db1913eca&chksm=a69bb24b91ec3b5d64f3279858adc1ef480978ec1b367bc01ef0934171aaf56cca75249febc1&token=1438905200&lang=zh_CN#rd)
 
 - 【2024年6月18日 周二】[记一次 .NET某机械臂上位系统 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247499921&idx=1&sn=3438d64b3cbc331a4456409e39ad584f&chksm=a69bb3dc91ec3aca74f24fd8568bb13e9671a5d338753bc8276f61d13e97bca9bc691be96923&token=1438905200&lang=zh_CN&poc_token=HLZYh2ajbd1tvBIs0EzxXXsCZNPidED_UCHc0THn)
