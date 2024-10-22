@@ -2,6 +2,12 @@
 
 ### 企业级生产事故分析报告一览
 
+- 【2024年10月8日 周二】[记一次升级系统补丁导致 VS2022 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500570&idx=1&sn=c3bc4c07d7f31d7a581e622e7b353ee2&chksm=a69bb05791ec3941263c378e3e236b42fc762cb7a6c7aa4d8e3550d1cc7099d05089015e3547&token=2115279628&lang=zh_CN#rd)
+
+- 【2024年9月14日 周六】[记一次 .NET某上位机视觉程序 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500469&idx=1&sn=836aff2221f5e62013924de2c8bee290&chksm=a69bb1f891ec38ee44e6193c648471653dc1e2484d7ecace8747764a48b7805f380dd2e3efde&token=2115279628&lang=zh_CN#rd)
+
+- 【2024年8月27日 周二】[记一次 .NET某实验室自动进样系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500371&idx=1&sn=b87ec789dc7b250012f4b0fd63aa57a2&chksm=a69bb11e91ec38088da89d899bc548b411fed6f736051c9a698aecf7c3054f7168915259f9f1&token=2115279628&lang=zh_CN#rd)
+
 - 【2024年8月9日 周五】[记一次 .NET某环境监测系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500222&idx=1&sn=cddb6ae71f331f67f1d7107e2bca93db&chksm=a69bb2f391ec3be52e0a87d43052540faa7d3c0658ab98aa74c7cd2e4338f98e58778578a8d3&token=1874918752&lang=zh_CN#rd)
 
 - 【2024年8月8日 周四】[记一次 .NET某智慧出行系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247500202&idx=1&sn=fc40d0ef5d27a249831df478c3efbdf3&chksm=a69bb2e791ec3bf16b07f399d89484157d08e87e17f98952cef626ad1b6601c4aa77da38690b&token=1874918752&lang=zh_CN#rd)
