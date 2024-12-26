@@ -2,7 +2,9 @@
 
 ### 企业级生产事故分析报告一览
 
-- 【2024年12月11日 周五】[记一次 .NET某差旅系统 CPU爆高分析](https://mp.weixin.qq.com/s/Bz6idePuNUtIRH89yHwD7Q?token=62429386&lang=zh_CN)
+- 【2024年12月20日 周五】[记一次 坑人的 C# MySql.Data SDK](https://mp.weixin.qq.com/s/KKh_liEVybUwspI7ny9yXg?token=62429386&lang=zh_CN)
+
+- 【2024年12月11日 周三】[记一次 .NET某差旅系统 CPU爆高分析](https://mp.weixin.qq.com/s/Bz6idePuNUtIRH89yHwD7Q?token=62429386&lang=zh_CN)
 
 - 【2024年11月29日 周五】[记一次 .NET某hdp智能柜系统 卡死分析](https://mp.weixin.qq.com/s/qA8Z42c1x8H6p_tutV-izQ?token=62429386&lang=zh_CN)
  
