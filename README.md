@@ -2,11 +2,11 @@
 
 ### 企业级生产事故分析报告一览
 
-- 【2024年12月20日 周二】[记一次 .NET某汗液测试机系统 崩溃分析](https://mp.weixin.qq.com/s/51UHeio0CNE_07fhKc5JXQ?token=227268425&lang=zh_CN)
+- 【2024年12月31日 周二】[记一次 .NET某汗液测试机系统 崩溃分析](https://mp.weixin.qq.com/s/51UHeio0CNE_07fhKc5JXQ?token=1190446068&lang=zh_CN)
 
 - 【2024年12月30日 周一】[记一次 .NET某电商医药网站 CPU爆高分析](https://mp.weixin.qq.com/s/iwDbnLsIZW5qooy6teS3RA?token=227268425&lang=zh_CN)
 
-- 【2024年12月27日 周五】[记一次 .NET某工业视觉软件 崩溃分析](https://mp.weixin.qq.com/s/DEW5r1AcTmOb6IsYkMZxtA?token=227268425&lang=zh_CN)
+- 【2024年12月27日 周五】[记一次 .NET某工业视觉软件 崩溃分析](https://mp.weixin.qq.com/s/DEW5r1AcTmOb6IsYkMZxtA?token=1190446068&lang=zh_CN)
 
 - 【2024年12月20日 周五】[记一次 坑人的 C# MySql.Data SDK](https://mp.weixin.qq.com/s/KKh_liEVybUwspI7ny9yXg?token=62429386&lang=zh_CN)
 
